@@ -1,0 +1,30 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1686" x1="321.5" x2="366.5" y1="84" y2="84" gradientTransform="rotate(90 214 -106)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eab305" offset="0"/>
+   <stop stop-color="#ffda64" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient939" x1="344" x2="344" y1="64" y2="96" gradientTransform="translate(-320,-60)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
+  <linearGradient id="linearGradient898">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#4d4d4d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient947" x1="344" x2="344" y1="64" y2="96" gradientTransform="matrix(0,0,0,0,17.5,38)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
+  <linearGradient id="linearGradient1004" x1="344" x2="344" y1="62" y2="106" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath994">
+   <path d="m335.73 62c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" color="#000000" fill="#cdcdcd"/>
+  </clipPath>
+ </defs>
+ <path d="m13.433 1.5c-2.6791 0-4.7886 0.05118-6.5244 0.29297-1.7358 0.24178-3.1562 0.6953-4.1966 1.5566-1.0404 0.86134-1.5896 2.0395-1.8782 3.4805-0.28866 1.441-0.34501 3.1953-0.33188 5.4238v12.746 12.752c-0.013 2.2251 0.0435 3.9785 0.33188 5.418 0.28865 1.441 0.8378 2.6191 1.8782 3.4805 1.0404 0.86134 2.4608 1.3149 4.1966 1.5566 1.7358 0.24179 3.8453 0.29297 6.5244 0.29297h21.136c2.6791 0 4.7875-0.0511 6.5198-0.29297 1.7322-0.24189 3.1482-0.69694 4.1848-1.5586 1.0366-0.86165 1.5825-2.0389 1.8735-3.4785 0.29102-1.4396 0.35305-3.1904 0.35305-5.418v-12.752-12.752c0-2.2276-0.0621-3.9784-0.35305-5.418-0.29101-1.4396-0.83692-2.6169-1.8735-3.4785-1.0366-0.86165-2.4527-1.3167-4.1849-1.5586-1.7322-0.24189-3.8406-0.29297-6.5197-0.29297z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m13.335 1.5c-10.011 0-11.887 0.90635-11.834 9.7484v12.752 12.752c-0.0527 8.842 1.8229 9.7484 11.834 9.7484h21.331c10.009 0 11.834-0.90625 11.834-9.7484v-12.752-12.752c0-8.8421-1.8254-9.7484-11.834-9.7484z" color="#000000" fill="url(#linearGradient1686)"/>
+ <path d="m22 39 8.5-17-4.5-1e-5v-11l-8.5 17 4.5-2e-5z" enable-background="new" fill="#fff" opacity=".2" stroke-width=".9998"/>
+ <path d="m22 38 8.5-17-4.5-1e-5v-11l-8.5 17 4.5-2e-5z" enable-background="new" fill="url(#linearGradient939)" stroke-width=".9998"/>
+ <path d="m17.5 38" enable-background="new" fill="url(#linearGradient947)" stroke-width=".9998"/>
+ <path d="m13.335 1.5c-10.011 0-11.887 0.90635-11.834 9.7484v12.752 12.752c-0.0527 8.842 1.8229 9.7484 11.834 9.7484h21.331c10.009 0 11.834-0.90625 11.834-9.7484v-12.752-12.752c0-8.8421-1.8254-9.7484-11.834-9.7484z" color="#000000" fill="none" opacity=".4" stroke="#000"/>
+ <path transform="matrix(1.2162 0 0 1 -394.37 -60)" d="m335.73 62c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" clip-path="url(#clipPath994)" color="#000000" fill="none" opacity=".7" stroke="url(#linearGradient1004)" stroke-width="1.8136"/>
+</svg>

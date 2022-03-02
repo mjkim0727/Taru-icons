@@ -1,0 +1,14 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1214" x1="344" x2="366" y1="94" y2="94" gradientTransform="translate(-319,-130)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m6.35 11.64-2.7781-2.9099h-2.0868s-0.69136-0.70961-0.69136-2.3828c0-1.6732 0.69136-2.3797 0.69136-2.3797h2.0868l2.7781-2.9099z" fill="#e4e4e4" stroke-width=".26458"/>
+ <g transform="scale(.26458)">
+  <circle cx="36" cy="36" r="11.5" enable-background="new" fill="#ed3146" stroke="#000" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+  <circle transform="rotate(90)" cx="36" cy="-36" r="10.5" enable-background="new" fill="none" opacity=".3" stroke="url(#linearGradient1214)" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+  <path d="m39.536 31.05-3.5355 3.5355-3.5355-3.5355-1.4142 1.4142 3.5355 3.5355-3.5355 3.5355 1.4142 1.4142 3.5355-3.5355 3.5355 3.5355 1.4142-1.4142-3.5355-3.5355 3.5355-3.5355z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

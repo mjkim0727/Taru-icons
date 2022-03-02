@@ -1,0 +1,16 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1214" x1="344" x2="366" y1="94" y2="94" gradientTransform="translate(-319,-130)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m8.8149 24.576c0 8.313-10.123 14.424-1.0123 14.424h32.394c9.111 0-1.012-6.111-1.012-14.424 0-9.273-4.049-19.576-15.185-19.576s-15.185 10.303-15.185 19.576z" fill="#efb055"/>
+ <path d="m17 39c1.0342 2.3167 3.7612 4 7 4s5.9658-1.6833 7-4h-14z" fill="#ce903c"/>
+ <path d="m24 5c-11.136 0-15.186 10.303-15.186 19.576 5e-4 6.146-5.5242 11.085-4.7281 13.244 0.5755-2.487 4.7286-6.905 4.7286-12.244 0-9.273 4.0495-19.576 15.186-19.576s15.186 10.303 15.186 19.576c0 5.339 4.153 9.757 4.728 12.244 0.796-2.159-4.728-7.098-4.728-13.244 0-9.273-4.05-19.576-15.186-19.576z" fill="#fff" opacity=".1"/>
+ <path d="m4.0859 37.82c-0.3207 1.386 0.4562 2.18 3.7168 2.18h32.394c3.261 0 4.038-0.794 3.717-2.18-0.281 0.762-1.341 1.18-3.717 1.18h-32.394c-2.376 0-3.4366-0.418-3.7174-1.18z" opacity=".2"/>
+ <path d="m17 40c1.034 2.317 3.761 4 7 4s5.966-1.683 7-4h-0.594c-1.289 1.782-3.658 3-6.406 3s-5.117-1.218-6.406-3h-0.594z" opacity=".2"/>
+ <circle cx="36" cy="36" r="11.5" enable-background="new" fill="#ed3146" stroke="#000" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <circle transform="rotate(90)" cx="36" cy="-36" r="10.5" enable-background="new" fill="none" opacity=".3" stroke="url(#linearGradient1214)" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <path d="m39.536 31.05-3.5355 3.5355-3.5355-3.5355-1.4142 1.4142 3.5355 3.5355-3.5355 3.5355 1.4142 1.4142 3.5355-3.5355 3.5355 3.5355 1.4142-1.4142-3.5355-3.5355 3.5355-3.5355z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

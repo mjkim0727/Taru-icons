@@ -1,0 +1,42 @@
+<svg width="32" height="32" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Suru Icon Theme Template</title>
+ <defs>
+  <linearGradient id="linearGradient924" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.072088 .072086 0 312.87 165.82)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8588-0-1-5" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 328.17 59.29)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cdcdcd" offset="0"/>
+   <stop stop-color="#d9d9d9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient969" x1="336" x2="336" y1="134" y2="162" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath959-3">
+   <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-143.81 -407.04)">
+  <g>
+   <g transform="translate(-176.19 275.04)" enable-background="new">
+    <rect x="320" y="132" width="32" height="32" enable-background="accumulate" opacity="0" stroke-width="2"/>
+    <path d="m330.19 134c-1.421 0-2.5488 0.0308-3.5059 0.19141-0.95703 0.16064-1.7915 0.4726-2.4121 1.0918s-0.93647 1.4561-1.0957 2.4141c-0.15924 0.95795-0.18666 2.087-0.17969 3.5117v7.791 7.7969c-7e-3 1.4213 0.0207 2.5495 0.17969 3.5058 0.15923 0.95796 0.47505 1.7949 1.0957 2.4141s1.4551 0.93115 2.4121 1.0918c0.95703 0.16065 2.0849 0.19141 3.5059 0.19141h11.615c1.421 0 2.5467-0.0307 3.502-0.19141 0.95527-0.16075 1.7878-0.47425 2.4062-1.0938 0.61845-0.6195 0.93134-1.4536 1.0918-2.4102 0.16046-0.95653 0.19141-2.084 0.19141-3.5078v-7.7969-7.7969c0-1.4238-0.031-2.5513-0.19141-3.5078-0.16045-0.95653-0.47334-1.7906-1.0918-2.4102-0.61846-0.61951-1.451-0.933-2.4062-1.0938-0.95527-0.16076-2.081-0.19141-3.502-0.19141z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+    <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="url(#linearGradient924)"/>
+    <ellipse transform="scale(-1)" cx="-336" cy="-145.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+    <circle cx="336" cy="145" r="7.5" enable-background="new" fill="url(#linearGradient8588-0-1-5)"/>
+    <path d="m336 137.5a7.5 7.5 0 0 0-7.5 7.5h7.5zm0 7.5v7.5a7.5 7.5 0 0 0 7.5-7.5z" enable-background="new" fill="#fff" opacity=".2"/>
+    <path d="m340.6 140.4a6.5 6.5 0 0 0-9.1924 0l4.5962 4.5962zm-4.5962 4.5962-4.5962 4.5962a6.5 6.5 0 0 0 9.1924 0z" enable-background="new" opacity=".02"/>
+    <path d="m333.95 137.78a7.5 7.5 0 0 0-0.13619 0.0462 7.5 7.5 0 0 1 0.36269-0.0983 7.5 7.5 0 0 0-0.2265 0.0521zm0.59059-0.13605a7.5 7.5 0 0 1 0.36946-0.0614 7.5 7.5 0 0 0-0.36946 0.0614zm-1.0807 0.3019a7.5 7.5 0 0 0-0.3507 0.13392 7.5 7.5 0 0 1 0.3507-0.13392zm1.8228-0.41054a7.5 7.5 0 0 1 0.37224-0.0242 7.5 7.5 0 0 0-0.37224 0.0242zm-2.5133 0.69875a7.5 7.5 0 0 0-0.3371 0.16899 7.5 7.5 0 0 1 0.3371-0.16899zm3.2616-0.73285a7.5 7.5 0 0 1 0.37405 0.0134 7.5 7.5 0 0 0-0.37405-0.0134zm-3.9198 1.0885a7.5 7.5 0 0 0-0.31893 0.20191 7.5 7.5 0 0 1 0.31893-0.20191zm4.6666-1.0477a7.5 7.5 0 0 1 0.37185 0.0507 7.5 7.5 0 0 0-0.37185-0.0507zm-5.2868 1.4676a7.5 7.5 0 0 0-0.29723 0.23291 7.5 7.5 0 0 1 0.29723-0.23291zm6.0283-1.3522a7.5 7.5 0 0 1 0.36234 0.0869 7.5 7.5 0 0 0-0.36234-0.0869zm-6.7115 1.928a7.5 7.5 0 0 0-0.085 0.0793 7.5 7.5 0 0 1 0.085-0.0793zm-0.11227 0.10869a7.5 7.5 0 0 0-1.194 1.5512l6.4951 3.75zm5.3011 5.3011 5.3011 5.3011a7.5 7.5 0 0 0 1.194-1.5512zm2.2473-7.1493a7.5 7.5 0 0 1 0.3526 0.12283 7.5 7.5 0 0 0-0.3526-0.12283zm0.70211 0.25991a7.5 7.5 0 0 1 0.34033 0.15837 7.5 7.5 0 0 0-0.34033-0.15837zm0.67307 0.32891a7.5 7.5 0 0 1 0.12302 0.073l5e-3 -8e-3a7.5 7.5 0 0 0-0.12747-0.0653zm-7.368 13.048-5e-3 8e-3a7.5 7.5 0 0 0 0.12747 0.0653 7.5 7.5 0 0 1-0.12303-0.073zm0.45578 0.2436a7.5 7.5 0 0 0 0.34031 0.15836 7.5 7.5 0 0 1-0.34031-0.15836zm0.68982 0.29543a7.5 7.5 0 0 0 0.35261 0.12285 7.5 7.5 0 0 1-0.35261-0.12285zm7.8738-1.6959a7.5 7.5 0 0 1-0.085 0.0793 7.5 7.5 0 0 0 0.085-0.0793zm-7.1589 1.9204a7.5 7.5 0 0 0 0.36235 0.0869 7.5 7.5 0 0 1-0.36235-0.0869zm6.6879-1.4982a7.5 7.5 0 0 1-0.29722 0.23292 7.5 7.5 0 0 0 0.29722-0.23292zm-5.9558 1.6499a7.5 7.5 0 0 0 0.37185 0.0507 7.5 7.5 0 0 1-0.37185-0.0507zm5.3574-1.199a7.5 7.5 0 0 1-0.31895 0.20191 7.5 7.5 0 0 0 0.31895-0.20191zm-4.6128 1.277a7.5 7.5 0 0 0 0.37405 0.0134 7.5 7.5 0 0 1-0.37405-0.0134zm3.9727-0.88847a7.5 7.5 0 0 1-0.3371 0.169 7.5 7.5 0 0 0 0.3371-0.169zm-3.2226 0.89193a7.5 7.5 0 0 0 0.37224-0.0242 7.5 7.5 0 0 1-0.37224 0.0242zm2.5457-0.56864a7.5 7.5 0 0 1-0.35069 0.1339 7.5 7.5 0 0 0 0.35069-0.1339zm-1.8009 0.49717a7.5 7.5 0 0 0 0.36945-0.0614 7.5 7.5 0 0 1-0.36945 0.0614zm1.0962-0.24351a7.5 7.5 0 0 1-0.36268 0.0983 7.5 7.5 0 0 0 0.36268-0.0983z" enable-background="new" fill="#faf8f6"/>
+    <circle transform="scale(1,-1)" cx="336" cy="-145" r="3" enable-background="new" fill="#aea795"/>
+    <circle cx="336" cy="145" r="2" enable-background="new" fill="#faf8f6"/>
+    <circle cx="336" cy="145" r="1" enable-background="new" fill="#4d4d4d"/>
+    <text transform="scale(1.0027 .99733)" x="330.66504" y="159.33678" enable-background="new" fill="#888888" font-family="sans-serif" font-size="5.6731px" letter-spacing="0px" stroke-width=".14145" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="330.66504" y="159.33678" fill="#888888" font-family="ubuntu" font-size="6.8077px" stroke-width=".14145">iso</tspan></text>
+    <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" clip-path="url(#clipPath959-3)" color="#000000" enable-background="accumulate" fill="none" opacity=".4" stroke="url(#linearGradient969)" stroke-width="2"/>
+   </g>
+  </g>
+ </g>
+</svg>

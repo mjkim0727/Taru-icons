@@ -1,0 +1,27 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient924" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.072088 .072086 0 -7.1296 33.818)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient969" x1="336" x2="336" y1="134" y2="162" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath959">
+   <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <path d="m10.193 2c-1.421 0-2.5488 0.0308-3.5059 0.19141-0.95703 0.16064-1.7915 0.4726-2.4121 1.0918s-0.93647 1.4561-1.0957 2.4141c-0.15924 0.95795-0.18666 2.087-0.17969 3.5117v7.791 7.7969c-7e-3 1.4213 0.0207 2.5495 0.17969 3.5058 0.15923 0.95796 0.47505 1.7949 1.0957 2.4141s1.4551 0.93115 2.4121 1.0918c0.95703 0.16065 2.0849 0.19141 3.5059 0.19141h11.615c1.421 0 2.5467-0.0307 3.502-0.19141 0.95527-0.16075 1.7878-0.47425 2.4062-1.0938 0.61845-0.6195 0.93134-1.4536 1.0918-2.4102 0.16046-0.95653 0.19141-2.084 0.19141-3.5078v-7.7969-7.7969c0-1.4238-0.031-2.5513-0.19141-3.5078-0.16045-0.95653-0.47334-1.7906-1.0918-2.4102-0.61846-0.61951-1.451-0.933-2.4062-1.0938-0.95527-0.16076-2.081-0.19141-3.502-0.19141z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m10.193 2c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+ <path d="m10.193 2c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" fill="url(#linearGradient924)"/>
+ <path d="m13 11c-2 0-3 0-3 2v5c0 2 1 2 3 2h6c2 0 3 0 3-2v-5c0-2-1-2-3-2z" enable-background="new" fill="#fac342"/>
+ <path d="m16 14c0.55228 0 1 0.44771 1 1-1e-5 0.33435-0.16711 0.64657-0.44531 0.83203l0.44531 2.168h-2l0.44531-2.168c-0.2782-0.18546-0.4453-0.49768-0.44531-0.83203 0-0.55229 0.44772-1 1-1z" enable-background="new" fill="#4f4f4f"/>
+ <path d="m12.5 11c0-3.5 0-5.5 3.5-5.5s3.5 2 3.5 5.5" enable-background="new" fill="none" stroke="#808080" stroke-width="1px"/>
+ <path d="m4 16v7.7969c-0.0276 5.6267 0.57798 6.2031 6.1934 6.2031h11.615c5.6154 0 6.1914-0.57631 6.1914-6.2031v-7.7969z" color="#000000" fill="#fff" opacity=".2"/>
+ <path d="m16 2v28h5.8086c5.6154 0 6.1914-0.57631 6.1914-6.2031v-7.7969-7.7969c0-5.6268-0.57603-6.2031-6.1914-6.2031z" color="#000000" fill="#fff" opacity=".2"/>
+ <text x="15.992279" y="26.840073" enable-background="new" fill="#000000" font-family="sans-serif" font-size="7.2308px" letter-spacing="0px" stroke-width=".18077" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="15.992279" y="26.840073" fill="#888888" font-family="ubuntu" stroke-width=".18077" text-align="center" text-anchor="middle">pgp</tspan></text>
+ <path transform="translate(-320,-132)" d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" clip-path="url(#clipPath959)" color="#000000" fill="none" opacity=".4" stroke="url(#linearGradient969)" stroke-width="2"/>
+</svg>

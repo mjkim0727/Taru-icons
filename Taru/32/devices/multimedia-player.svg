@@ -1,0 +1,33 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1080" x1="350.98" x2="321.02" y1="148.02" y2="148.02" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1070">
+   <path d="m351 153c0 5-1.9565 4.9417-7 5h-16c-5.0435-0.0583-7 0-7-5v-11c0-5 1.9565-4.9417 7-5h16c5.0435 0.0583 7 0 7 5z" color="#000000" fill="#cdcdcd" opacity=".2"/>
+  </clipPath>
+  <linearGradient id="linearGradient13869" x1="329" x2="343" y1="137" y2="158" gradientTransform="matrix(.69444 0 0 .52381 -217.28 -68.062)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9a9a9a" offset="0"/>
+   <stop stop-color="#c5c5c5" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1052-9-7-9" cx="232.77" cy="368.96" r="160" gradientTransform="matrix(-.038742 -.0725 .025266 -.013501 12.827 53.616)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cdcdcd" offset="0"/>
+   <stop stop-color="#d9d9d9" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path d="m20.714 1.0002c4.2857 0 4.2357 1.9565 4.2857 7v16c-0.0499 5.0435 0 7-4.2857 7h-9.4286c-4.2857 0-4.2357-1.9565-4.2857-7v-16c0.0499-5.0435 0-7 4.2857-7z" color="#000000" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+ <path d="m6.4998 23.248c0.0252 2.4378-0.0131 4.1752 0.6123 5.4454 0.31271 0.6351 0.81569 1.1181 1.4962 1.4044 0.6805 0.28624 1.5338 0.4026 2.6415 0.4026h9.5c1.1077 0 1.961-0.11636 2.6415-0.4026 0.68051-0.28624 1.1835-0.76926 1.4962-1.4044 0.62542-1.2702 0.58714-3.0076 0.61229-5.4454v-4e-3 -15.488-4e-3c-0.0251-2.4378 0.0131-4.1752-0.61229-5.4454-0.31272-0.6351-0.81569-1.1181-1.4962-1.4043-0.6805-0.28563-1.5338-0.40217-2.6415-0.40217h-9.5c-1.1077 0-1.961 0.11636-2.6415 0.4026-0.68051 0.28624-1.1835 0.76926-1.4962 1.4044-0.62542 1.2702-0.58714 3.0076-0.6123 5.4454v4e-3 15.488z" color="#000000" fill="#4d4d4d"/>
+ <path d="m6.4998 23.248c0.0252 2.4378-0.0131 4.1752 0.6123 5.4454 0.31271 0.6351 0.81569 1.1181 1.4962 1.4044 0.6805 0.28624 1.5338 0.4026 2.6415 0.4026h9.5c1.1077 0 1.961-0.11636 2.6415-0.4026 0.68051-0.28624 1.1835-0.76926 1.4962-1.4044 0.62542-1.2702 0.58714-3.0076 0.61229-5.4454v-4e-3 -15.488-4e-3c-0.0251-2.4378 0.0131-4.1752-0.61229-5.4454-0.31272-0.6351-0.81569-1.1181-1.4962-1.4043-0.6805-0.28563-1.5338-0.40217-2.6415-0.40217h-9.5c-1.1077 0-1.961 0.11636-2.6415 0.4026-0.68051 0.28624-1.1835 0.76926-1.4962 1.4044-0.62542 1.2702-0.58714 3.0076-0.6123 5.4454v4e-3 15.488z" color="#000000" fill="none" opacity=".3" stroke="#000"/>
+ <path d="m11.25 0.5c-1.1077 0-1.9613 0.1161-2.6418 0.40234-0.68051 0.28624-1.184 0.7692-1.4968 1.4043-0.62542 1.2702-0.58626 3.0075-0.61142 5.4453v4e-3 15.488 4e-3c0.0252 2.4378-0.014 4.1751 0.61142 5.4453 0.31272 0.6351 0.81624 1.1181 1.4968 1.4043 0.6805 0.28624 1.5341 0.40234 2.6418 0.40234h4.75v-30z" color="#000000" opacity=".03"/>
+ <path transform="matrix(0 -.96667 .85713 0 -110.43 340.3)" d="m351 153c0 5-1.9565 4.9417-7 5h-16c-5.0435-0.0583-7 0-7-5v-11c0-5 1.9565-4.9417 7-5h16c5.0435 0.0583 7 0 7 5z" clip-path="url(#clipPath1070)" color="#000000" fill="none" opacity=".3" stroke="url(#linearGradient1080)" stroke-width="2.1972"/>
+ <rect x="9.8" y="3.7" width="12.5" height="11" rx=".76754" ry=".52381" enable-background="new" fill="url(#linearGradient13869)"/>
+ <path d="m15.103 3.7-5.303 8v2.5c0 0.277 0.29564 0.5 0.66288 0.5h2.4621l7.2917-11z" enable-background="new" fill="#fff" opacity=".1"/>
+ <path d="m10.494 3.7c-0.38472 0-0.69444 0.23362-0.69444 0.52381v7.4766l5.3033-8.0004z" enable-background="new" fill="#f9f9f9" opacity=".2"/>
+ <circle cx="16" cy="22.3" r="5" enable-background="new" fill="#9a9a9a" style="paint-order:normal"/>
+ <ellipse transform="matrix(.96593 -.25881 .25883 .96592 0 0)" cx="9.6828" cy="25.681" rx="4.5833" ry="4.5834" enable-background="new" fill="url(#radialGradient1052-9-7-9)" style="paint-order:normal"/>
+ <circle cx="16" cy="22.3" r="2.75" enable-background="new" fill="#9a9a9a" style="paint-order:normal"/>
+ <circle cx="16" cy="22.3" r="2.5" enable-background="new" fill="#4d4d4d" style="paint-order:normal"/>
+</svg>

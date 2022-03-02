@@ -1,0 +1,9 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="#e95420"/>
+ <g transform="translate(-320,-132)" enable-background="new">
+  <rect x="329" y="146" width="14" height="10" fill="#fff"/>
+  <rect x="331.5" y="138.5" width="9" height="14" ry="4.5" fill="none" stroke="#fff" stroke-dashoffset="1" stroke-linejoin="round"/>
+  <path d="m337 148.5v4.5h-2v-4z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#e95420" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:none;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ </g>
+</svg>
