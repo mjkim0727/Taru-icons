@@ -1,0 +1,4 @@
+<svg width="8" height="8" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-8" y="-8" width="8" height="8" rx="1" ry="1" enable-background="new" fill="#5884f4"/>
+ <path d="m3.0792 1.0078 1.8416-6.3e-4v2.1493l0.69807 3e-4c-0.28544 0.56976-0.79992 1.5699-1.6188 2.7894-0.81912-1.2197-1.3334-2.2204-1.6189-2.7902l0.69807 3e-4zm-1.2277 5.5247v0.4604h4.297v-0.4604z" color="#000000" fill="#fff"/>
+</svg>

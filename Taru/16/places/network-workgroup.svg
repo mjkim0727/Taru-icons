@@ -1,0 +1,23 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1-5" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 .16669 -77.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8c59d9" offset="0"/>
+   <stop stop-color="#a7a7f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3-4" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.076087 0 0 .076087 .69566 .69567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-8" cy="-8.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="url(#linearGradient8588-0-1-5)"/>
+ <path d="m4.6128 1.143a7.5 7.5878 0 0 0-0.60171 0.34883c-0.058 1.2927-0.0591 2.5644 0.018 3.7984-0.78623-0.49578-1.5546-1.0068-2.3054-1.5208a7.5 7.5878 0 0 0-0.30424 0.49932c0.72447 0.49683 1.4663 0.99103 2.2266 1.4729-1.0726 0.41473-2.1088 0.91893-3.1122 1.5185a7.5 7.5878 0 0 0-0.0338 0.65207 7.5 7.5878 0 0 0 2e-3 0.0457c1.1485-0.71405 2.3512-1.2839 3.599-1.7487 0.0893 0.93514 0.22166 1.8474 0.41242 2.7268 0.21008 0.96855 0.49474 1.8943 0.84734 2.777-0.50638 0.16462-1.0144 0.30599-1.5054 0.40812-0.68636 0.14277-1.3173 0.21405-1.9066 0.25763a7.5 7.5878 0 0 0 0.44396 0.5586c0.49697-0.0511 1.0262-0.12927 1.5775-0.24396 0.52594-0.10938 1.0718-0.25838 1.6181-0.43776 0.52797 1.1843 1.2216 2.2599 2.0643 3.2262a7.5 7.5878 0 0 0 0.34732 0.01816 7.5 7.5878 0 0 0 0.42593-0.0137c-0.9587-0.99817-1.7195-2.1441-2.2942-3.4222 1.553-0.58392 3.0789-1.4935 4.239-2.8682 1.512 0.5672 3.0803 0.98462 4.6965 1.2244a7.5 7.5878 0 0 0 0.17127-0.56315c-1.5644-0.22601-3.0872-0.62765-4.5613-1.1742 0.60761-1.3204 1.0942-2.708 1.4423-4.1427 0.82104-0.0727 1.6583-0.1279 2.5083-0.171a7.5 7.5878 0 0 0-0.32227-0.56315c-0.68946 0.0369-1.3761 0.0752-2.0485 0.13223 0.14088-0.66642 0.23683-1.3462 0.311-2.0314a7.5 7.5878 0 0 0-0.53861-0.38532c-0.0762 0.83958-0.19677 1.6686-0.37635 2.4806-2.4723 0.23929-4.8275 0.64866-7.038 1.3885-0.0921-1.3695-0.0798-2.7952-2e-3 -4.2476zm6.9028 3.461c-0.33925 1.34-0.80721 2.6369-1.3815 3.8782-1.784-0.70572-3.4895-1.6103-5.127-2.5923 2.0428-0.66191 4.216-1.0545 6.5084-1.2859zm-6.8194 1.7829c1.622 0.97494 3.317 1.8721 5.0954 2.5855-1.0682 1.1975-2.4556 2.0162-3.883 2.5513-0.34443-0.85816-0.62489-1.7603-0.83158-2.7132-0.16945-0.78119-0.29399-1.591-0.38086-2.4236z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <ellipse cx="4.1722" cy="5.8652" rx=".90562" ry=".91233" enable-background="new" fill="#fff"/>
+ <ellipse cx="5.982" cy="11.914" rx=".90562" ry=".91233" enable-background="new" fill="#fff"/>
+ <ellipse cx="12.019" cy="4.6151" rx=".90562" ry=".91233" enable-background="new" fill="#fff"/>
+ <ellipse cx="10.208" cy="8.8726" rx=".90562" ry=".91233" enable-background="new" fill="#fff"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m8 1c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7 3.866 0 7-3.134 7-7 0-3.866-3.134-7-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" enable-background="new" fill="url(#linearGradient8590-3-3-4)"/>
+</svg>

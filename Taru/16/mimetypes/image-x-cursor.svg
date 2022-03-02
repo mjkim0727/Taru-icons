@@ -1,0 +1,97 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" id="svg11300" version="1.0" style="display:inline;enable-background:new">
+  <title id="title3004">Suru Icon Theme Template</title>
+  <defs id="defs3">
+    <linearGradient xlink:href="#linearGradient4338" id="linearGradient920" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-0.03604403,0.03604301,0,316.43523,252.90909)" x1="459.03448" y1="419.23337" x2="35.310345" y2="207.36522"/>
+    <linearGradient id="linearGradient4338">
+      <stop style="stop-color:#f2f2f2;stop-opacity:1" offset="0" id="stop4340"/>
+      <stop style="stop-color:#f9f9f9;stop-opacity:1" offset="1" id="stop4342"/>
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient5796" id="linearGradient1070" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-0.49857872,0.49857872,0,506.52438,260.07055)" x1="22.245115" y1="-345.06934" x2="38.245117" y2="-345.06934"/>
+    <linearGradient id="linearGradient5796">
+      <stop id="stop5794" offset="0" style="stop-color:#4d4d4d;stop-opacity:1"/>
+      <stop id="stop5792" offset="1" style="stop-color:#151515;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient927" id="linearGradient993" x1="328" y1="237" x2="328" y2="251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="linearGradient927">
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop923"/>
+      <stop id="stop933" offset="0.125" style="stop-color:#ffffff;stop-opacity:0.09803922"/>
+      <stop id="stop931" offset="0.92500001" style="stop-color:#ffffff;stop-opacity:0.09803922"/>
+      <stop style="stop-color:#ffffff;stop-opacity:0.49803922" offset="1" id="stop925"/>
+    </linearGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath983-3">
+      <path id="path985-6" d="m 325.09646,237 c -2.80769,0 -3.10979,0.28839 -3.09603,3.10176 V 244 v 3.89824 c -0.0138,2.81337 0.28834,3.10176 3.09603,3.10176 h 5.8075 C 333.71166,251 334,250.71165 334,247.89824 V 244 240.10176 C 334,237.28836 333.71165,237 330.90396,237 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#46a926;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"/>
+    </clipPath>
+  </defs>
+  <metadata id="metadata4">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sam Hewitt</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:title>Suru Icon Theme Template</dc:title>
+        <dc:subject>
+          <rdf:Bag/>
+        </dc:subject>
+        <dc:date/>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier/>
+        <dc:relation/>
+        <dc:language/>
+        <dc:coverage/>
+        <dc:description/>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(-271,-247)" style="display:inline" id="layer1">
+    <g style="display:inline" id="layer7"/>
+    <g id="layer4" style="display:inline"/>
+    <g id="layer2" style="display:inline"/>
+    <g id="layer8" style="display:inline"/>
+    <g id="layer3"/>
+    <g id="layer5" style="display:inline">
+      <g id="g1003" style="display:inline;enable-background:new" transform="translate(-49,11)">
+        <rect y="236" x="320" height="16" width="16" id="rect16x16" style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"/>
+        <path id="path997" d="m 325.0957,237 c -0.71904,0 -1.30185,0.0139 -1.83593,0.10352 -0.53409,0.0897 -1.0683,0.27628 -1.47657,0.68359 -0.40826,0.4073 -0.59657,0.94323 -0.68554,1.47851 -0.089,0.53529 -0.10119,1.12048 -0.0977,1.8418 V 244 v 3.89844 c -0.003,0.71816 0.009,1.30235 0.0977,1.83594 0.089,0.53528 0.27727,1.07121 0.68554,1.47851 0.40827,0.40731 0.94248,0.59394 1.47657,0.68359 0.53408,0.0897 1.11689,0.10352 1.83593,0.10352 h 5.8086 c 0.71904,0 1.30058,-0.0137 1.83398,-0.10352 0.53341,-0.0898 1.06768,-0.27792 1.47461,-0.68554 0.40693,-0.40762 0.59404,-0.94271 0.68359,-1.47656 C 334.98604,249.20052 335,248.61887 335,247.89844 V 244 241.10156 c 0,-0.72043 -0.014,-1.30208 -0.10352,-1.83594 -0.0895,-0.53385 -0.27666,-1.06894 -0.68359,-1.47656 -0.40693,-0.40762 -0.9412,-0.59578 -1.47461,-0.68554 C 332.20488,237.01375 331.62334,237 330.9043,237 Z" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"/>
+        <path style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" d="m 325.09646,237 c -2.80769,0 -3.10979,0.28839 -3.09603,3.10176 V 244 v 3.89824 c -0.0138,2.81337 0.28834,3.10176 3.09603,3.10176 h 5.8075 C 333.71166,251 334,250.71165 334,247.89824 V 244 240.10176 C 334,237.28836 333.71165,237 330.90396,237 Z" id="path928"/>
+        <path id="path918" d="m 325.09646,237 c -2.80769,0 -3.10979,0.28839 -3.09603,3.10176 V 244 v 3.89824 c -0.0138,2.81337 0.28834,3.10176 3.09603,3.10176 h 5.8075 C 333.71166,251 334,250.71165 334,247.89824 V 244 240.10176 C 334,237.28836 333.71165,237 330.90396,237 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient920);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
+        <path style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99715745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" d="m 326.00432,240.34699 v 6.9801 l 1.56195,-1.90473 1.03027,2.48608 c 0.24931,0.62648 1.18806,0.23749 0.9212,-0.38172 l -1.05267,-2.54062 2.18323,0.005 z" id="path7431-5-9-9-6"/>
+        <path id="path7371-3-1-3-1" d="m 326.00431,240.34699 v 6.9801 l 1.56196,-1.90473 1.03026,2.48608 c 0.24932,0.62648 1.18807,0.23749 0.92121,-0.38172 l -1.05267,-2.54062 2.18324,0.005 z" style="display:inline;fill:url(#linearGradient1070);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99715745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"/>
+        <path id="path1009" d="m 328,237 v 14 h 2.9043 C 333.712,251 334,250.71185 334,247.89844 V 244 240.10156 C 334,237.28816 333.71199,237 330.9043,237 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
+        <path id="path1016" d="m 322,244 v 3.89844 C 321.9862,250.71181 322.28801,251 325.0957,251 h 5.8086 C 333.712,251 334,250.71185 334,247.89844 V 244 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
+        <path clip-path="url(#clipPath983-3)" id="path937" d="m 325.09646,237 c -2.80769,0 -3.10979,0.28839 -3.09603,3.10176 V 244 v 3.89824 c -0.0138,2.81337 0.28834,3.10176 3.09603,3.10176 h 5.8075 C 333.71166,251 334,250.71165 334,247.89824 V 244 240.10176 C 334,237.28836 333.71165,237 330.90396,237 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient993);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="google-chrome-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="12.265625"
+     inkscape:cx="-5.6254777"
+     inkscape:cy="20.912102"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path2472"
+     style="fill:#808080;fill-opacity:1;stroke-width:0.999999"
+     d="M 8 0 A 8.0000001 8.0000001 0 0 0 1.703125 3.0957031 L 4.078125 7.2089844 A 3.9999999 3.9999999 0 0 1 8 4 L 14.908203 4 A 8.0000001 8.0000001 0 0 0 8 0 z M 1.0820312 4.0195312 A 8.0000001 8.0000001 0 0 0 0 8 A 8.0000001 8.0000001 0 0 0 6.8925781 15.919922 L 9.2890625 11.769531 A 3.9999999 3.9999999 0 0 1 8 12 A 3.9999999 3.9999999 0 0 1 4.5527344 9.9980469 L 4.5390625 10.005859 L 1.0820312 4.0195312 z M 8 5 A 2.9999999 2.9999999 0 0 0 5 8 A 2.9999999 2.9999999 0 0 0 8 11 A 2.9999999 2.9999999 0 0 0 11 8 A 2.9999999 2.9999999 0 0 0 8 5 z M 10.619141 5 A 3.9999999 3.9999999 0 0 1 12 8 A 3.9999999 3.9999999 0 0 1 11.447266 9.9960938 L 11.462891 10.005859 L 8.0019531 16 A 8.0000001 8.0000001 0 0 0 16 8 A 8.0000001 8.0000001 0 0 0 15.398438 5 L 10.619141 5 z "
+     transform="scale(0.26458333)" />
+</svg>

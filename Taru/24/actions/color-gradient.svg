@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#666666; }</style>
+  <linearGradient id="linearGradient4164-3" x1="3" x2="19" y1="1049.4" y2="1033.4" gradientTransform="matrix(.75 0 0 .75 -1.25 264.34)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#666" offset="0"/>
+   <stop stop-color="#dfdfdf" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(1 1)">
+  <g transform="translate(-326 -534.36)">
+   <g transform="translate(326 -496)">
+    <g transform="translate(4 1026.3)">
+     <g transform="translate(-326,-534.36)">
+      <g transform="translate(326,-496)">
+       <path d="m12 1038.4v1h-11v11h-1v2h2v-1h11v-11h1v-2z" fill="url(#linearGradient4164-3)"/>
+       <path class="ColorScheme-Text" d="m11 1037.4v3.293l-8.707 8.707h-3.293v4h4v-3.293l8.707-8.707h3.293v-4zm1 1h2v2h-2zm-12 12h2v2h-2z" color="#666666" fill="#666"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

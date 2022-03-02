@@ -1,0 +1,37 @@
+<svg width="16" height="16" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Suru Icon Theme Template</title>
+ <defs>
+  <linearGradient id="linearGradient920-3" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.036044 .036043 0 -3.5648 16.909)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+  <radialGradient id="SVGID_1_-3-0-2-5" cx="69.955" cy="60.886" r="68.065" gradientTransform="matrix(.068097 0 0 -.068097 3.2363 12.146)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".1" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient993" x1="328" x2="328" y1="237" y2="251" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath983">
+   <path d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" color="#000000" enable-background="accumulate" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <path d="m5.0957 1c-0.71904 0-1.3018 0.0139-1.8359 0.10352-0.53409 0.0897-1.0683 0.27628-1.4766 0.68359-0.40826 0.4073-0.59657 0.94323-0.68554 1.4785-0.089 0.53529-0.10119 1.1205-0.0977 1.8418v2.8926 3.8984c-3e-3 0.71816 9e-3 1.3024 0.0977 1.8359 0.089 0.53528 0.27727 1.0712 0.68554 1.4785 0.40827 0.40731 0.94248 0.59394 1.4766 0.68359 0.53408 0.0897 1.1169 0.10352 1.8359 0.10352h5.8086c0.71904 0 1.3006-0.0137 1.834-0.10352 0.53341-0.0898 1.0677-0.27792 1.4746-0.68554s0.59404-0.94271 0.68359-1.4766c0.08956-0.53386 0.10352-1.1155 0.10352-1.8359v-3.8984-2.8984c0-0.72043-0.014-1.3021-0.10352-1.8359-0.0895-0.53385-0.27666-1.0689-0.68359-1.4766s-0.9412-0.59578-1.4746-0.68554c-0.5334-0.08977-1.1149-0.10352-1.834-0.10352z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m5.0965 1c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" color="#000000" enable-background="accumulate" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+ <path d="m5.0965 1c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" color="#000000" enable-background="accumulate" fill="url(#linearGradient920-3)"/>
+ <path d="m5.2547 10.744-1.5853-1.5853c-0.18795-0.1934-0.30508-0.46578-0.30508-0.73205 0-0.12325 0.0695-0.31597 0.1219-0.42696l1.4634-3.0487z" enable-background="new" fill="#01579b" stroke-width=".068097"/>
+ <path d="m10.682 5.2557-1.5853-1.5853c-0.13824-0.13892-0.42697-0.30507-0.67076-0.30507-0.20974 0-0.41539 0.0422-0.54886 0.12189l-2.9268 1.4634z" enable-background="new" fill="#40c4ff" stroke-width=".068097"/>
+ <polygon transform="matrix(.068097 0 0 .068097 3.2363 3.3251)" points="57.4 136.7 113.82 136.7 113.82 112.52 71.73 99.09 33.23 112.52" enable-background="new" fill="#40c4ff"/>
+ <path d="m4.9503 9.8904c0 0.48893 0.0613 0.60947 0.30507 0.85394l0.24379 0.24378h5.488l-2.683-3.0487-3.3538-2.9881z" enable-background="new" fill="#29b6f6" stroke-width=".068097"/>
+ <path d="m9.8281 4.9506h-4.8785l6.0368 6.0368h1.6466v-3.7808l-1.951-1.951c-0.27375-0.27512-0.51754-0.30508-0.85394-0.30508z" enable-background="new" fill="#01579b" stroke-width=".068097"/>
+ <path d="m5.316 10.805c-0.24379-0.24515-0.30508-0.48621-0.30508-0.91454v-4.8785l-0.0613-0.0613v4.9391c6.8e-4 0.42902 6.8e-4 0.54751 0.36636 0.91523l0.18318 0.18318z" enable-background="new" fill="#fff" opacity=".2" stroke-width=".068097"/>
+ <polygon transform="matrix(.068097 0 0 .068097 3.2363 3.3251)" points="138 57.01 137.1 56.11 137.1 111.63 112.92 111.63 113.82 112.52 138 112.52" enable-background="new" fill="#263238" opacity=".2"/>
+ <path d="m10.682 5.2557c-0.30235-0.30235-0.55022-0.30508-0.91454-0.30508h-4.8172l0.0613 0.0613h4.7566c0.18114 0 0.64079-0.0306 0.91386 0.24379z" enable-background="new" fill="#fff" opacity=".2" stroke-width=".068097"/>
+ <path d="m12.572 7.1461-1.8904-1.8904-1.5853-1.5853c-0.13824-0.13892-0.42697-0.30507-0.67076-0.30507-0.20974 0-0.41539 0.0422-0.54886 0.12189l-2.9268 1.4634-1.4634 3.0487c-0.0524 0.11099-0.1219 0.30371-0.1219 0.42696 0 0.26627 0.11713 0.53865 0.30508 0.73205l1.4614 1.4505c0.0347 0.0429 0.0756 0.0865 0.12461 0.13483l1.8911 1.8911h3.842v-1.6466h1.6466v-3.7807z" enable-background="new" fill="url(#SVGID_1_-3-0-2-5)" opacity=".2" stroke-width=".068097"/>
+ <path d="m8 1v14h2.9043c2.8077 0 3.0957-0.28815 3.0957-3.1016v-3.8984-3.8984c0-2.8134-0.28801-3.1016-3.0957-3.1016z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".2"/>
+ <path d="m2 8v3.8984c-0.0138 2.8134 0.28801 3.1016 3.0957 3.1016h5.8086c2.8077 0 3.0957-0.28815 3.0957-3.1016v-3.8984z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".2"/>
+ <path transform="translate(-320,-236)" d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" clip-path="url(#clipPath983)" color="#000000" enable-background="accumulate" fill="none" opacity=".4" stroke="url(#linearGradient993)" stroke-width="2"/>
+</svg>

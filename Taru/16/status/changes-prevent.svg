@@ -1,0 +1,20 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient8590-3-3-4" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.076087 0 0 .076087 .69566 .69567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient876" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 .16669 -77.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-8" cy="-8.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="url(#linearGradient876)"/>
+ <path d="m8 4c-1.108 0-2 1-2 2.0312v0.96875h-1v4h6v-4h-1v-0.96875c0-1.1199-0.892-2.0312-2-2.0312zm0 1c0.554 0 1 0.4424 1 1v1h-2v-1c0-0.5576 0.446-1 1-1z" enable-background="new" fill="#eab305"/>
+ <path d="m0.70256 8.6667a7.3333 7.3333 0 0 0 7.297 6.6667 7.3333 7.3333 0 0 0 7.3-6.6667z" enable-background="new" fill="#fff" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m8 1c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" enable-background="new" fill="url(#linearGradient8590-3-3-4)"/>
+</svg>

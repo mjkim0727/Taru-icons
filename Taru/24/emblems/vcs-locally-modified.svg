@@ -1,0 +1,5 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-24" y="-23" width="22" height="22" rx="11" ry="11" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-23" y="-23" width="22" height="22" rx="11" ry="11" enable-background="new" fill="#c43ac4"/>
+ <path d="m12.998 7.5-7 5 7 5v-3c0.473 0.0285 0.84851-0.0461 1.2422-0.082 4.0461-0.53584 3.7578-3.9853 3.7578-7.918h-1c0 2-0.5229 2.9711-1.154 3.614-0.77806 0.47661-1.846 0.386-2.846 0.386z" enable-background="new" fill="#fff"/>
+</svg>
