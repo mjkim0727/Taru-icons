@@ -27,9 +27,9 @@
      units="px"
      inkscape:zoom="49.0625"
      inkscape:cx="7.9898089"
-     inkscape:cy="8"
+     inkscape:cy="7.9592357"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -103,10 +103,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient17934"
        id="linearGradient2425"
-       x1="0.39687625"
-       y1="2.1166799"
-       x2="3.8364582"
-       y2="2.1166799"
+       x1="0.92604291"
+       y1="1.3231846e-05"
+       x2="2.7781248"
+       y2="4.2333465"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -125,7 +125,7 @@
      id="path3731" />
   <path
      d="m 1.2844203,0.132305 c -0.80477297,0 -0.89136597,0.08175 -0.88742097,0.879292 V 2.11668 3.22176 c -0.0039,0.797541 0.08265,0.879295 0.88742097,0.879295 h 1.664615 c 0.804775,0 0.887423,-0.08174 0.887423,-0.879295 V 2.11668 1.011597 c 0,-0.797549 -0.08265,-0.879292 -0.887423,-0.879292 z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2425);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2425);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate"
      id="path3851" />
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
