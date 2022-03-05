@@ -1,4 +1,4 @@
-# Naru-icons
+# Taru-icons
 
 ![logo](logo.png)
 
@@ -6,29 +6,28 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 # Features
 
-* Traditional Style - 
 
 # Varients
 
-* Default - Default is Best customization, but different
+* Default - 22.04 Design with 19.10 Folder Style
 
 ![Default](screenshots/var-default.png)
 
-* Aubergine - Ubuntu Aubergine Colour
+* Aubergine - Aubergine colors
 
-![Aubergine](screenshots/var-aubergine.png)
+![Ermine](screenshots/var-ermine.png)
 
-* MATE - Yaru-MATE's Taru Mod
+* Breeze - KDE Plasma Style with Yaru
+
+![Breeze](screenshots/var-breeze.png)
+
+* MATE - MATE Color
 
 ![Mate](screenshots/var-mate.png)
 
 * Manjaro - Ubuntu theme with Manjaro Colour
 
 ![Manjaro](screenshots/var-manjaro.png)
-
-* Remix - Yaru-remix color
-
-![Remix](screenshots/var-remix.png)
 
 # Preview
 
