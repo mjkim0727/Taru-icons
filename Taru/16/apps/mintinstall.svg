@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1003"
    sodipodi:docname="mintinstall.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,10 +28,10 @@
      showguides="false"
      inkscape:lockguides="true"
      inkscape:zoom="24.75"
-     inkscape:cx="4.7474747"
-     inkscape:cy="11.272727"
+     inkscape:cx="4.7676768"
+     inkscape:cy="11.252525"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,4 +120,8 @@
      id="rect1649"
      style="opacity:1;fill:#f0fae9;fill-opacity:1;stroke-width:0.0661458;stroke-linecap:round;stroke-linejoin:round"
      d="M 1.5875,1.5875 V 1.8520833 H 1.8520833 V 1.5875 Z m 0.5291666,0 V 1.8520833 H 2.38125 V 1.5875 Z M 1.5875,2.1166667 V 2.38125 H 1.8520833 V 2.1166667 Z m 0.5291666,0 V 2.38125 H 2.38125 V 2.1166667 Z" />
+  <path
+     d="M 2.1166673,0 C 1.6830452,0 1.4276853,0.19607908 1.308448,0.39480794 1.1892107,0.59353677 1.1906258,0.79374999 1.1906258,0.79374999 c 0,0.0730627 0.059229,0.13229162 0.1322916,0.13229162 0.073063,0 0.1322917,-0.0592289 0.1322917,-0.13229162 0,0 0.00142,-0.13051628 0.080615,-0.26251627 0.0792,-0.13199999 0.2207162,-0.26665039 0.580843,-0.26665039 0.360127,0 0.5016431,0.1346504 0.5808432,0.26665039 0.0792,0.13199999 0.080615,0.26251627 0.080615,0.26251627 0,0.0730627 0.059229,0.13229162 0.1322917,0.13229162 0.073063,0 0.1322917,-0.0592289 0.1322917,-0.13229162 0,0 0.0014,-0.20021322 -0.1178222,-0.39894205 C 2.8056495,0.19607908 2.5502898,0 2.1166673,0 Z"
+     style="color:#000000;fill:#c0eb9d;stroke-width:0.264583;stroke-linecap:round;-inkscape-stroke:none;fill-opacity:1"
+     id="path925" />
 </svg>
