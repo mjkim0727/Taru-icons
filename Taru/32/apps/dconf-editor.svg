@@ -7,8 +7,8 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg2719"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="dconf-editor.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ca.desrt.dconf-editor.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="12.265625"
-     inkscape:cx="-1.6713376"
-     inkscape:cy="12.963057"
+     inkscape:zoom="17.346213"
+     inkscape:cx="5.5055244"
+     inkscape:cy="12.394636"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -96,9 +96,9 @@
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1540);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate"
      id="path2526" />
   <path
-     d="M 6.2590928,2.6051123 3.7239083,5.1402969 2.206999,3.6230438 1.8468747,3.9842 l 1.8773775,1.8770335 2.8956,-2.8953354 z"
-     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.0484187;enable-background:new"
-     id="path882" />
+     d="M 6.2590928,2.6051122 3.7239083,5.1402969 2.206999,3.6230437 1.8468747,3.9842 3.7242523,5.8612332 6.6198522,2.9658981 Z"
+     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;stroke:none;stroke-width:0.0128108;enable-background:new"
+     id="path1054" />
   <g
      id="g2372">
     <rect

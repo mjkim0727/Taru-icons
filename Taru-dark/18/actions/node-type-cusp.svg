@@ -1,0 +1,14 @@
+<svg width="18" height="18" version="1.1" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#f34f17; }</style>
+ </defs>
+ <path d="m8 1v3h1v1h1v-1h1v-3zm1 1h1v1h-1z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m9 6v1h1v-1z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m9 8v1h1v-1z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m14 13.5v3h3v-3zm1 1h1v1h-1z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m12 14.5v1h1v-1z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m7.9902 15.076c2e-3 0.11193 0.0098 0.22147 0.0098 0.33398h0.32422z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path class="ColorScheme-Highlight" d="m9 11.344-2.8281 2.8281 2.8281 2.8281 2.8281-2.8281zm0 1.4141 1.4141 1.4141-1.4141 1.4141-1.4141-1.4141z" color="#f34f17" fill="#f34f17"/>
+ <path d="m16 1c-0.0038 5.387-1.9772 10.109-4.9062 12.438l0.70898 0.70898c3.1146-2.5631 5.1975-7.5149 5.1973-13.146z" color="#dfdfdf" fill="#dfdfdf"/>
+ <path d="m1 1.2402v1.0566c3.3154 1.1912 5.8903 5.2285 6.7129 10.334l0.85156-0.85156c-1.0405-5.2922-3.9172-9.4077-7.5645-10.539z" color="#dfdfdf" fill="#dfdfdf"/>
+</svg>

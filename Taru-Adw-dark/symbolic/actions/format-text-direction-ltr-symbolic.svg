@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="14" height="1" color="#bebebe" fill="#dfdfdf" overflow="visible"/>
+ <rect x="1" y="4" width="14" height="1" color="#bebebe" fill="#dfdfdf" overflow="visible"/>
+ <path d="m1 10h10v1h-10z" color="#bebebe" fill="#dfdfdf" overflow="visible"/>
+ <rect x="1" y="7" width="14" height="1" color="#bebebe" fill="#dfdfdf" overflow="visible"/>
+ <path d="m12 11.318v1.682h-9v1h9.002v1.682c0.664-0.304 1.34-0.643 2.027-1.018a38.45 38.45 0 0 0 1.971-1.164 37.603 37.603 0 0 0-4-2.182z" color="#bebebe" fill="#dfdfdf" overflow="visible"/>
+</svg>

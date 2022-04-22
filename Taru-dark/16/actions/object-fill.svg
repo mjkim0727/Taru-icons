@@ -1,0 +1,10 @@
+<svg width="12" height="12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#dfdfdf}.ColorScheme-Background{color:#eff0f1}.ColorScheme-Highlight{color:#f34f17}.ColorScheme-ViewText{color:#31363b}.ColorScheme-ViewBackground{color:#fcfcfc}.ColorScheme-ViewHover{color:#93cee9}.ColorScheme-ViewFocus{color:#f34f17}.ColorScheme-ButtonText{color:#31363b}.ColorScheme-ButtonBackground{color:#eff0f1}.ColorScheme-ButtonHover{color:#93cee9}.ColorScheme-ButtonFocus{color:#f34f17}</style>
+  <linearGradient id="linearGradient4240" x1="422.71" x2="432.71" y1="546.79" y2="536.79" gradientTransform="translate(-421.71 -535.79)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#dfdfdf" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 1.001h10v10h-10z" fill="url(#linearGradient4240)"/>
+</svg>

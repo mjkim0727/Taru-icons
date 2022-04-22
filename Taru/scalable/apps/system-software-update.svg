@@ -28,10 +28,10 @@
      height="48px"
      showguides="true"
      inkscape:zoom="16.893617"
-     inkscape:cx="23.973552"
-     inkscape:cy="24.506298"
+     inkscape:cx="24.003149"
+     inkscape:cy="24.506297"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -127,7 +127,7 @@
      sodipodi:nodetypes="sssssss" />
   <path
      d="M 3.3072918,6.8791667 H 7.276042 c 0.07329,0 0.1322912,0.059002 0.1322912,0.1322917 0,0.07329 -0.059002,0.1322916 -0.1322912,0.1322916 H 3.3072918 c -0.07329,0 -0.1322917,-0.059002 -0.1322917,-0.1322916 0,-0.07329 0.059002,-0.1322917 0.1322917,-0.1322917 z"
-     style="fill:#77216f;fill-opacity:1;stroke-width:0.0151909"
+     style="fill:#e95420;fill-opacity:1;stroke-width:0.0151909"
      id="path3217"
      sodipodi:nodetypes="sssssss" />
 </svg>

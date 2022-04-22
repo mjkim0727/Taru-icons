@@ -1,0 +1,5 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="#929ca2"/>
+ <rect x="7.5643" y="14.569" width="16.871" height="2.8617" enable-background="new" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".050111"/>
+</svg>

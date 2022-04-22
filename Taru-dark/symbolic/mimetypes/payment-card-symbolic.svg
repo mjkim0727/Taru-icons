@@ -1,0 +1,9 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <path d="m1 2c-0.54535 0-1 0.45465-1 1v9c-7.2859e-17 0.54535 0.45465 1 1 1h14c0.54535 0 1-0.45465 1-1v-9c0-0.54535-0.45465-1-1-1h-14zm0 1h14v9h-14v-9z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#dfdfdf" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <rect x="2" y="9" width="4" height="1" rx="0" ry="0" fill="#dfdfdf"/>
+ <rect x="7" y="9" width="2" height="1" rx="0" ry="0" fill="#dfdfdf"/>
+ <rect x="2" y="4" width="12" height="2" fill="#dfdfdf"/>
+</svg>

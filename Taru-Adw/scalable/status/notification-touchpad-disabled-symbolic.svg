@@ -1,0 +1,33 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1050" x1="344" x2="344" y1="62" y2="98" gradientTransform="translate(-320,-58)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#666" offset="0"/>
+   <stop stop-color="#808080" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient920" x1="344" x2="344" y1="64" y2="98" gradientTransform="translate(0,2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1668">
+   <path d="m366 95c0 5-1.9565 4.9417-7 5h-30c-5.0435-0.0583-7 0-7-5v-24c0-5 1.9565-4.9417 7-5h30c5.0435 0.05831 7 0 7 5z" color="#000000" fill="#cdcdcd"/>
+  </clipPath>
+  <linearGradient id="linearGradient1876" x1="344.31" x2="344.31" y1="79" y2="68" gradientTransform="translate(-320,-106)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1214" x1="344" x2="366" y1="94" y2="94" gradientTransform="translate(-319,-130)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m46 36c0 5-1.9565 4.9417-7 5h-30c-5.0435-0.0583-7 0-7-5v-24c0-5 1.9565-4.9417 7-5h30c5.0435 0.05831 7 0 7 5z" color="#000000" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+ <path d="m8.9941 40.5c-2.5191-0.0291-4.3144 0.0152-5.627-0.70898-0.65627-0.36209-1.1554-0.94448-1.4512-1.7324-0.29578-0.78794-0.41602-1.776-0.41602-3.0586v-24c0-1.2826 0.12024-2.2706 0.41602-3.0586 0.29578-0.78795 0.7949-1.3703 1.4512-1.7324 1.3125-0.72418 3.1079-0.67986 5.627-0.70898h30.012c2.5191 0.02912 4.3144-0.01519 5.627 0.70898 0.65627 0.36209 1.1554 0.94447 1.4512 1.7324 0.29542 0.78795 0.41584 1.776 0.41584 3.0586v24c0 1.2826-0.12024 2.2706-0.41602 3.0586-0.29578 0.78795-0.7949 1.3703-1.4512 1.7324-1.3125 0.72417-3.1079 0.67986-5.627 0.70898h-30.008z" color="#000000" fill="url(#linearGradient1050)"/>
+ <path transform="translate(-320,-60)" d="m366 95c0 5-1.9565 4.9417-7 5h-30c-5.0435-0.0583-7 0-7-5v-24c0-5 1.9565-4.9417 7-5h30c5.0435 0.05831 7 0 7 5z" clip-path="url(#clipPath1668)" color="#000000" fill="none" opacity=".5" stroke="url(#linearGradient920)" stroke-width="2"/>
+ <path d="m8.9941 5.5c-2.5191 0.02912-4.3144-0.01519-5.627 0.70898-0.65627 0.36209-1.1554 0.94447-1.4512 1.7324s-0.41602 1.776-0.41602 3.0586v24c0 1.2826 0.12024 2.2706 0.41602 3.0586 0.29578 0.78795 0.7949 1.3703 1.4512 1.7324 1.3125 0.72418 3.1079 0.67986 5.627 0.70898h30.012c2.5191-0.0291 4.3144 0.0152 5.627-0.70898 0.65627-0.36209 1.1554-0.94448 1.4512-1.7324 0.29542-0.78794 0.41584-1.776 0.41584-3.0586v-24c0-1.2826-0.12024-2.2706-0.41602-3.0586s-0.7949-1.3703-1.4512-1.7324c-1.3125-0.72418-3.1079-0.67986-5.627-0.70898h-30.008z" color="#000000" fill="none" opacity=".5" stroke="#000"/>
+ <rect transform="scale(1,-1)" x="17" y="-37.5" width="14" height="9.8333" enable-background="new" fill="url(#linearGradient1876)" opacity=".2" stroke="#000" stroke-linecap="round"/>
+ <circle cx="36" cy="36" r="11.5" enable-background="new" fill="#ed3146" stroke="#000" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <circle transform="rotate(90)" cx="36" cy="-36" r="10.5" enable-background="new" fill="none" opacity=".3" stroke="url(#linearGradient1214)" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <path d="m39.536 31.05-3.5355 3.5355-3.5355-3.5355-1.4142 1.4142 3.5355 3.5355-3.5355 3.5355 1.4142 1.4142 3.5355-3.5355 3.5355 3.5355 1.4142-1.4142-3.5355-3.5355 3.5355-3.5355z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

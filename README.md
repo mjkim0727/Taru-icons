@@ -13,9 +13,9 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 ![Default](screenshots/var-default.png)
 
-* Aubergine - Aubergine colors
+* Adw - GNOME 42 Adwaita colors
 
-![Ermine](screenshots/var-ermine.png)
+![Adw](screenshots/var-adw.png)
 
 * Breeze - KDE Plasma Style with Yaru
 
@@ -33,10 +33,10 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 ![Default](preview-images/preview-default.png)
 
-![Aubergine](preview-images/preview-aubergine.png)
+![Adw](preview-images/preview-adw.png)
+
+![Breeze](preview-images/preview-breeze.png)
 
 ![Mate](preview-images/preview-mate.png)
-
-![Manjaro](preview-images/preview-manjaro.png)
 
 ![Remix](preview-images/preview-remix.png)

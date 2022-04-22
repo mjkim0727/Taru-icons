@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m14 5v-2h-2.002z" fill="#dfdfdf" overflow="visible"/>
+ <path d="m2 7v8h9v-1h-8v-7.667zm11.002-1-2e-3 9h1v-8z" fill="#dfdfdf" font-family="Ubuntu" font-size="15px" letter-spacing="0" text-anchor="middle" word-spacing="0"/>
+ <path d="m8 8.986a8.47 8.47 0 0 1 0.607-0.122c0.253-0.043 0.543-0.064 0.872-0.064 0.295 0 0.54 0.043 0.735 0.129 0.195 0.08 0.35 0.197 0.465 0.35 0.119 0.147 0.202 0.326 0.25 0.535 0.047 0.21 0.071 0.44 0.071 0.693v3.693h-3z" fill="#dfdfdf" font-family="Ubuntu" letter-spacing="0" text-anchor="end" word-spacing="0"/>
+ <path d="m8 0.293-7.854 7.853 0.708 0.708 7.146-7.147 7.146 7.147 0.708-0.708z" fill="#dfdfdf" fill-rule="evenodd" font-family="sans-serif" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
+</svg>
