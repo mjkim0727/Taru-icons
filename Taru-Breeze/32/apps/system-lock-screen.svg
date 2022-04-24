@@ -30,10 +30,10 @@
      inkscape:zoom="11.578874"
      inkscape:cx="13.084174"
      inkscape:cy="24.959249"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="74"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -77,16 +77,16 @@
        x2="2.7781253"
        y2="1.5874999"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.64444433,0,0,0.64444433,0.14111139,0.1411115)" />
+       gradientTransform="matrix(0.64444445,0,0,0.64444445,0.14111108,0.14111108)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient17934">
       <stop
-         style="stop-color:#f37e40;stop-opacity:1"
+         style="stop-color:#3daee9;stop-opacity:1"
          offset="0"
          id="stop17930" />
       <stop
-         style="stop-color:#f34f17;stop-opacity:1"
+         style="stop-color:#17dcf2;stop-opacity:1"
          offset="1"
          id="stop17932" />
     </linearGradient>

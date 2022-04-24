@@ -1,0 +1,10 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="#3eb34f"/>
+ <g transform="translate(-319.91 -132.01)" enable-background="new">
+  <path d="m327.5 147.37c0.56664-0.27071 1.1394-0.56109 1.7168-0.87368 0.58008-0.31775 1.1319-0.64119 1.6557-0.97079 0 0-0.37942-0.24559-3.0993-1.9864-0.087 0.60952-0.15432 1.2444-0.20135 1.9038-0.0435 0.65527-0.0677 1.2974-0.0718 1.929z" enable-background="new" fill="#fff"/>
+  <path d="m342.96 149.93a7.4904 7.4904 0 0 1-6.8677 5.5427 7.4904 7.4904 0 0 1-7.3778-4.843" enable-background="new" fill="none" stroke="#fff" stroke-width="1.0452"/>
+  <path transform="scale(-1)" d="m-328.43-146.1a7.4904 7.4904 0 0 1-6.8677 5.5427 7.4904 7.4904 0 0 1-7.3779-4.843" enable-background="new" fill="none" stroke="#fff" stroke-width="1.0452"/>
+  <path d="m343.89 148.65c-0.56664 0.27071-1.1394 0.56109-1.7168 0.87368-0.58008 0.31775-1.1319 0.64119-1.6557 0.97079 0 0 0.37942 0.24559 3.0993 1.9864 0.087-0.60952 0.15432-1.2444 0.20135-1.9038 0.0435-0.65527 0.0677-1.2974 0.0718-1.929z" enable-background="new" fill="#fff"/>
+ </g>
+</svg>

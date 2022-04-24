@@ -1,0 +1,14 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient916" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.056641 .056639 0 -5.7453 26)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m7.8652 24.013c-4.4121 0-4.8868-0.45318-4.8652-4.8742v-6.1258-6.1258c-0.0217-4.421 0.45311-4.8742 4.8652-4.8742h8.2696c4.4121 0 4.8652 0.45312 4.8652 4.8742v6.1258 6.1258c0 4.4211-0.45312 4.8742-4.8652 4.8742z" color="#000000" opacity=".2"/>
+ <path d="M 7.8652,1 C 3.45311,1 2.97838,1.45318 3,5.87419 V 12 18.12581 C 2.9783,22.54682 3.45311,23 7.8652,23 h 8.2696 C 20.54689,23 21,22.54688 21,18.12581 V 12 5.87419 C 21,1.45313 20.54688,1 16.13479,1 Z" color="#000000" fill="url(#linearGradient916)"/>
+ <path d="m6 7h12v1h-12z" enable-background="new" fill="#999"/>
+ <path d="m6 10h12v1h-12z" enable-background="new" fill="#999"/>
+ <path d="m6 13h12v1h-12z" enable-background="new" fill="#999"/>
+ <path d="m6 16h6v1h-6z" enable-background="new" fill="#999"/>
+</svg>

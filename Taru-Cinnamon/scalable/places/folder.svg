@@ -28,10 +28,10 @@
      inkscape:zoom="16.875"
      inkscape:cx="23.97037"
      inkscape:cy="24"
-     inkscape:window-width="1920"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="74"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2919" />
   <defs
@@ -54,7 +54,7 @@
          offset="0"
          id="stop1156" />
       <stop
-         style="stop-color:#e59f7a;stop-opacity:1"
+         style="stop-color:#e19268;stop-opacity:1"
          offset="1"
          id="stop1158" />
     </linearGradient>

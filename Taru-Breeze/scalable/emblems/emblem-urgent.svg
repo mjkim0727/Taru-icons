@@ -1,0 +1,17 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1048" x1="-105" x2="-63" y1="-344" y2="-344" gradientTransform="translate(60,320)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3d3d3d" offset="0"/>
+   <stop stop-color="#3d3d3d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".1"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" fill="url(#linearGradient1048)"/>
+ <g transform="translate(-319,-60)" enable-background="new">
+  <path d="m331.89 77.403 10.778 6.2225 16.657-9.6167" color="#000000" enable-background="accumulate" fill="none" stroke="#f1f0e9" stroke-width="1.8"/>
+  <circle cx="342.66" cy="83.626" r="2" color="#000000" enable-background="accumulate" fill="#f22c42"/>
+  <path d="m342.66 79.626v20.8" color="#000000" enable-background="accumulate" fill="none" stroke="#f22c42" stroke-width="1.4"/>
+ </g>
+ <path d="m4.6348 12.594a22.5 22.5 0 0 0-3.1348 11.406 22.5 22.5 0 0 0 15.875 21.5h13.186a22.5 22.5 0 0 0 12.904-10.256z" enable-background="new" fill="#fff" opacity=".05"/>
+</svg>

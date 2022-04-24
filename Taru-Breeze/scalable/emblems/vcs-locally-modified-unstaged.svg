@@ -1,0 +1,8 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".1"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" fill="#da1636"/>
+ <g transform="translate(-320,-60)" enable-background="new" fill="#fff" aria-label="!">
+  <path d="m345.99 77.467q0 3.3362-0.2383 6.0766-0.2383 2.7007-0.59575 5.4014h-2.3035q-0.35745-2.7007-0.59575-5.4014-0.23829-2.7404-0.23829-6.0766v-7.4667h3.9716zm0.67517 17.912q0 1.0723-0.71489 1.8667t-1.9461 0.79433q-1.2312 0-1.9461-0.79433-0.71489-0.79433-0.71489-1.8667 0-1.0723 0.71489-1.8667 0.7149-0.79433 1.9461-0.79433 1.2312 0 1.9461 0.79433 0.71489 0.79433 0.71489 1.8667z" fill="#fff" stroke-width=".99291px"/>
+ </g>
+</svg>

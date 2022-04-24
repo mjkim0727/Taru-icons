@@ -1,0 +1,8 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-24" y="-23" width="22" height="22" rx="11" ry="11" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-23" y="-23" width="22" height="22" rx="11" ry="11" enable-background="new" fill="#9b33ae"/>
+ <g transform="matrix(1.0625 0 0 1.0625 -340.69 -202.09)" enable-background="new" fill="#fff">
+  <path d="m329.98 199.38-3.974 7.6168h3.7293 5.8746l-2.9374-5.6299-0.8279 1.5869z" color="#000000" enable-background="accumulate" opacity=".75"/>
+  <path d="m336 196c-1.1046 0-2 0.89543-2 2s0.89544 2 2 2c1.1046 0 2-0.89543 2-2s-0.89542-2-2-2z" color="#000000" enable-background="accumulate" opacity=".75"/>
+ </g>
+</svg>

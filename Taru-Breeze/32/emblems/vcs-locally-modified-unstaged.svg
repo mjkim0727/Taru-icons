@@ -1,0 +1,7 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="#da1636"/>
+ <g transform="translate(-320 -132)" enable-background="new" fill="#fff" aria-label="!">
+  <path d="m337.27 143.79q0 2.1416-0.15297 3.9008-0.15298 1.7337-0.38244 3.4674h-1.4788q-0.22946-1.7337-0.38244-3.4674-0.15297-1.7592-0.15297-3.9008v-4.7932h2.5496zm0.43343 11.499q0 0.68838-0.45892 1.1983-0.45893 0.50991-1.2493 0.50991-0.79037 0-1.2493-0.50991-0.45892-0.50992-0.45892-1.1983 0-0.68839 0.45892-1.1983 0.45893-0.50992 1.2493-0.50992 0.79036 0 1.2493 0.50992 0.45892 0.50991 0.45892 1.1983z" fill="#fff" stroke-width=".63739px"/>
+ </g>
+</svg>

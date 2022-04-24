@@ -7,7 +7,7 @@
    viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg5"
-   sodipodi:docname="system-lock-screem.svg"
+   sodipodi:docname="system-lock-screen.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,12 +28,12 @@
      height="48px"
      showguides="false"
      inkscape:zoom="34.206291"
-     inkscape:cx="8.4048868"
-     inkscape:cy="6.2853936"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="8.4048867"
+     inkscape:cy="6.2853935"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="74"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -60,16 +60,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient17934"
-       id="linearGradient2016"
-       x1="9.921875"
-       y1="11.1125"
-       x2="2.7781253"
-       y2="1.5874999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.3333333)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1871"
        id="linearGradient1412"
        x1="2.1166666"
@@ -80,20 +70,30 @@
        gradientTransform="scale(3.7795276)" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient17934"
+       id="linearGradient2016-3"
+       x1="9.921875"
+       y1="11.1125"
+       x2="2.7781253"
+       y2="1.5874999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.33333332)" />
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient17934">
       <stop
-         style="stop-color:#f37e40;stop-opacity:1"
+         style="stop-color:#3daee9;stop-opacity:1"
          offset="0"
          id="stop17930" />
       <stop
-         style="stop-color:#f34f17;stop-opacity:1"
+         style="stop-color:#17dcf2;stop-opacity:1"
          offset="1"
          id="stop17932" />
     </linearGradient>
   </defs>
   <circle
-     style="fill:url(#linearGradient2016);fill-opacity:1;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round"
-     id="path986"
+     style="fill:url(#linearGradient2016-3);fill-opacity:1;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round"
+     id="path986-6"
      cx="2.1166666"
      cy="2.1166666"
      r="1.984375" />

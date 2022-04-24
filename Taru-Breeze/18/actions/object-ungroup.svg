@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#666666; }</style>
+ </defs>
+ <path d="m0 0v1 2h1v-2h2v-1h-3zm15 0v1h2v2h1v-2-1h-1-2zm-15 15v2 1h3v-1h-2v-2h-1zm17 0v2h-2v1h2 1v-1-2h-1z" fill="#666"/>
+ <rect x="10" y="3" width="5" height="5" fill="#666" stroke-width=".91287"/>
+ <circle cx="5.5" cy="5.5" r="2.5" fill="#666" stroke-width=".83333"/>
+ <rect x="4" y="10" width="3" height="6" fill="#666" stroke-width=".7746"/>
+ <path d="m10 16 2.5165-6 2.4835 6z" fill="#666"/>
+</svg>

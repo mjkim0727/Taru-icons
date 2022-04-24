@@ -1,0 +1,16 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1040" x1="-163" x2="-133" y1="-336" y2="-336" gradientTransform="translate(132,320)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3d3d3d" offset="0"/>
+   <stop stop-color="#3d3d3d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="url(#linearGradient1040)"/>
+ <g transform="matrix(.75 0 0 .75 -241.48 -47.194)" enable-background="new">
+  <path d="m334.52 78.927 8.1383 4.6986 14.332-8.2747" color="#000000" enable-background="accumulate" fill="none" stroke="#f1f0e9" stroke-width="1.8667"/>
+  <circle cx="342.66" cy="83.626" r="2" color="#000000" enable-background="accumulate" fill="#f22c42"/>
+  <path d="m342.66 79.626v18.05" color="#000000" enable-background="accumulate" fill="none" stroke="#f22c42" stroke-width="1.4667"/>
+ </g>
+ <path d="m3.5606 8.5859a14.5 14.5 0 0 0-2.0606 7.4141 14.5 14.5 0 0 0 14.5 14.5 14.5 14.5 0 0 0 12.584-7.3184z" enable-background="new" fill="#fff" opacity=".05"/>
+</svg>

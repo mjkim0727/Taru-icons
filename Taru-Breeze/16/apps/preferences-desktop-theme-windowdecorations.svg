@@ -30,10 +30,10 @@
      inkscape:zoom="24.75"
      inkscape:cx="2.040404"
      inkscape:cy="12.686869"
-     inkscape:window-width="1920"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="74"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1003" />
   <defs
@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient17934">
       <stop
-         style="stop-color:#fb7c38;stop-opacity:1"
+         style="stop-color:#3daee9;stop-opacity:1"
          offset="0"
          id="stop17930" />
       <stop
-         style="stop-color:#9b33ef;stop-opacity:1"
+         style="stop-color:#0e8dff;stop-opacity:1"
          offset="1"
          id="stop17932" />
     </linearGradient>
@@ -95,12 +95,12 @@
      id="path908" />
   <path
      d="m 3.1786458,1.0584414 c 0.1017747,-0.00132 0.1700874,0.021405 0.2051897,0.063243 0.036854,0.043566 0.055806,0.1150249 0.055806,0.2143574 V 2.897454 c 0,0.09933 -0.018944,0.1707886 -0.055806,0.2143522 -0.035102,0.041825 -0.1034071,0.063243 -0.2051897,0.063243 H 1.0547454 c -0.10178241,0 -0.17027781,-0.021405 -0.20537741,-0.063243 -0.036851,-0.043563 -0.055618,-0.115022 -0.055618,-0.2143519 V 1.3360422 c 0,-0.099332 0.018759,-0.1707912 0.055618,-0.2143574 0.035097,-0.041823 0.103595,-0.063243 0.20537741,-0.063243 z"
-     style="fill:#faf8f6;fill-opacity:1;stroke-width:0.264583;enable-background:new"
+     style="fill:#eff0f1;fill-opacity:1;stroke-width:0.264583;enable-background:new"
      id="path878"
      sodipodi:nodetypes="ccsscsscsscsc" />
   <path
      d="m 1.0547718,1.0583885 c -0.10178241,0 -0.17005821,0.02122 -0.20515511,0.063045 -0.034999,0.041368 -0.052464,0.1098894 -0.054261,0.2015384 H 3.4380579 C 3.4362058,1.2313228 3.4187962,1.162801 3.3837972,1.1214334 3.3486949,1.0795949 3.2804166,1.0570656 3.1786419,1.0583885 Z"
-     style="fill:#7c2f68;fill-opacity:1;stroke-width:0.264583;enable-background:new"
+     style="fill:#51565b;fill-opacity:1;stroke-width:0.264583;enable-background:new"
      id="path1118"
      sodipodi:nodetypes="scccccs" />
   <path
