@@ -1,0 +1,26 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.48294 0 0 .48294 -24.011 -143.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#319741" offset="0"/>
+   <stop stop-color="#0e8420" offset="1"/>
+  </linearGradient>
+  <filter id="filter10952" x="-.015062" y="-.0099725" width="1.0301" height="1.0199" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.09265347"/>
+  </filter>
+  <linearGradient id="linearGradient8590-3-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.11957 0 0 .11957 .52176 .52174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12.523" rx="12" ry="11.477" enable-background="new" opacity=".1"/>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12" rx="11.5" ry="11.5" enable-background="new" fill="url(#linearGradient8588-0-1)"/>
+ <path d="m1.054 13a11 11 0 0 0 10.946 10 11 11 0 0 0 10.95-10z" enable-background="new" fill="#fff" opacity=".1"/>
+ <g transform="matrix(.56096 0 0 .56096 -181.38 -35.242)" enable-background="new" shape-rendering="auto">
+  <path d="m344.82 72.091c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" filter="url(#filter10952)" image-rendering="auto" opacity=".1" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m344.82 71.742c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <ellipse cx="12" cy="11.977" rx="11.455" ry="11.477" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.0751 4.9249 11 11 11 6.0751 0 11-4.9249 11-11 0-6.0751-4.9249-11-11-11zm0 1a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" enable-background="new" fill="url(#linearGradient8590-3-3)"/>
+</svg>

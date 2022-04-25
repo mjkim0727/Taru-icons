@@ -1,0 +1,26 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1-5" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 .16668 -77.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cdcdcd" offset="0"/>
+   <stop stop-color="#d9d9d9" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient983" cx="-256" cy="-256.2" r="96" gradientTransform="matrix(0 -.041667 -.041667 0 -2.675 -2.6667)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop stop-opacity="0" offset=".89867"/>
+   <stop stop-opacity=".26166" offset=".94933"/>
+   <stop offset="1"/>
+  </radialGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-8" cy="-8.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="url(#linearGradient8588-0-1-5)"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-8" cy="-8" r="5.5" color="#000000" fill="#46444a"/>
+ <path d="m8 2.4999a5.5 5.5 0 0 0-5.5 5.5001 5.5 5.5 0 0 0 5.5 5.5 5.5 5.5 0 0 0 5.5-5.5 5.5 5.5 0 0 0-5.5-5.5001zm0 1.9678a3.5322 3.5322 0 0 1 3.5322 3.5322 3.5322 3.5322 0 0 1-3.5322 3.5322 3.5322 3.5322 0 0 1-3.5322-3.5322 3.5322 3.5322 0 0 1 3.5322-3.5322z" color="#000000" fill="url(#radialGradient983)" opacity=".1"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-7.9999" cy="-8" r="4.125" color="#000000" fill="#fda463"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-8" cy="-8" r="2.75" color="#000000" fill="#fb7c38"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-8" cy="-8" r="1.375" color="#000000" fill="#f34f17"/>
+ <circle transform="matrix(-.13917 -.99027 -.99027 .13917 0 0)" cx="-9.0354" cy="-6.8088" r=".6875" color="#000000" fill="#d64310"/>
+ <circle transform="rotate(-8)" cx="7.116" cy="8.8009" r=".20625" color="#000000" fill="#fff" opacity=".3"/>
+ <circle transform="rotate(-8)" cx="6.4948" cy="9.269" r=".06875" color="#000000" fill="#fff" opacity=".3"/>
+ <circle cx="10.063" cy="5.9375" r="2.0625" color="#000000" fill="#fff" opacity=".2"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+</svg>

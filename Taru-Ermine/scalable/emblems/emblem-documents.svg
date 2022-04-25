@@ -1,0 +1,19 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1024" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.11328 .11328 0 -11.49 52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m15.718 2.9999c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" color="#000000" opacity=".2"/>
+ <path d="m15.731 2c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" color="#000000" fill="url(#linearGradient1024)"/>
+ <g transform="translate(-320,-60)" enable-background="new" fill="#999">
+  <path d="m332 84h24v1h-24z"/>
+  <path d="m332 87h24v1h-24z"/>
+  <path d="m332 90h24v1h-24z"/>
+  <path d="m332 93h12v1h-12z"/>
+  <path d="m332 75h24v1h-24z"/>
+  <path d="m332 78h24v1h-24z"/>
+  <path d="m332 81h24v1h-24z"/>
+ </g>
+</svg>

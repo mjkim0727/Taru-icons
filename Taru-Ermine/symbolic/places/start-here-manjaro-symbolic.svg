@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16.05 16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="start-here-manjaro-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.312507"
+     inkscape:cx="6.79506"
+     inkscape:cy="8.493825"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     id="rect1065"
+     style="fill:#808080;stroke-width:0.995375"
+     d="M 1 1 L 1 15 L 5 15 L 5 5 L 10 5 L 10 1 L 1 1 z M 11 1 L 11 15 L 15 15 L 15 1 L 11 1 z M 6 6 L 6 15 L 10 15 L 10 6 L 6 6 z " />
+</svg>

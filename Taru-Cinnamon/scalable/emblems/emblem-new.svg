@@ -1,0 +1,7 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-46" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" opacity=".1"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-45" width="42" height="42" rx="21" ry="21" enable-background="new" fill="#3eb34f"/>
+ <rect transform="rotate(90)" x="8.3789" y="-38.213" width="30.706" height="30.706" color="#000000" fill="none"/>
+ <path d="m23.02 13.2v9.8277h-9.962v1.9655h9.962v9.8277h1.9924v-9.8277h9.962v-1.9655h-9.962v-10.319z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

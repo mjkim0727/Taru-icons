@@ -1,0 +1,5 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-31" width="30" height="30" rx="15" ry="15" enable-background="new" fill="#929ca2"/>
+ <text x="12.918487" y="25" enable-background="new" fill="#ffffff" font-family="sans-serif" font-size="24.456px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="12.918487" y="25" fill="#ffffff" font-family="Ubuntu" stroke-width=".20473">i</tspan></text>
+</svg>

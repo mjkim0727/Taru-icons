@@ -1,0 +1,20 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient924" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.072088 .072086 0 -7.1296 33.818)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m10.206 3.008c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" opacity=".2"/>
+ <path d="m10.193 2c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" fill="url(#linearGradient924)"/>
+ <g transform="translate(-320,-131)" enable-background="new" fill="#999">
+  <path d="m328 146h16v0.5h-16z"/>
+  <path d="m328 148h16v0.5h-16z"/>
+  <path d="m328 152h16v0.5h-16z"/>
+  <path d="m328 154h8v0.5h-8z"/>
+  <path d="m328 140h16v0.5h-16z"/>
+  <path d="m328 142h16v0.5h-16z"/>
+  <path d="m328 144h16v0.5h-16z"/>
+  <path d="m328 150h16v0.5h-16z"/>
+ </g>
+</svg>

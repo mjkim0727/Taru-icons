@@ -1,0 +1,7 @@
+<svg width="8" height="8" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-8" y="-8" width="8" height="8" rx="1" ry="1" enable-background="new" fill="#929ca2"/>
+ <g transform="translate(-321 -268)" enable-background="new" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".015537">
+  <rect transform="rotate(-90)" x="-274.51" y="323.54" width="5.0124" height=".92594" enable-background="new"/>
+  <rect transform="rotate(-90)" x="-274.51" y="325.54" width="5.0124" height=".92594" enable-background="new"/>
+ </g>
+</svg>

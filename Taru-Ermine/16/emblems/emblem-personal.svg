@@ -1,0 +1,14 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-16" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#618bf5"/>
+ <g transform="matrix(.53552 0 0 .53552 -174.78 -44.779)" enable-background="new" fill="none" stroke-dashoffset="1" stroke-linejoin="round" stroke-width=".88889">
+  <g transform="matrix(1.1803 0 0 1.1803 -413.26 -172.72)" enable-background="new" stroke="#547fec">
+   <ellipse cx="639.95" cy="224.89" rx="3.2828" ry="3.5556" stroke-linecap="round"/>
+   <path d="m633.33 235.56c0-3.5 1.6667-4.4444 6.6667-4.4444s6.6667 0.94444 6.6667 4.4444z"/>
+  </g>
+  <g transform="matrix(1.1803 0 0 1.1803 -413.06 -172.56)" enable-background="new" stroke="#fff">
+   <ellipse cx="639.95" cy="224.89" rx="3.2828" ry="3.5556" stroke-linecap="round"/>
+   <path d="m633.33 235.56c0-3.5 1.6667-4.4444 6.6667-4.4444s6.6667 0.94444 6.6667 4.4444z"/>
+  </g>
+ </g>
+</svg>

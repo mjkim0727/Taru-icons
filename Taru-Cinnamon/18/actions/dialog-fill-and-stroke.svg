@@ -1,0 +1,7 @@
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle transform="rotate(-90)" cx="-9" cy="9" r="8" fill="#666666"/>
+ <circle transform="rotate(-90)" cx="-9" cy="9" r="7" fill="#fff"/>
+ <circle transform="rotate(-90)" cx="-9" cy="9" r="5" fill="#666666" opacity=".5"/>
+ <path d="m9 16a7 7 0 0 0 7-7 7 7 0 0 0-7-7z" fill="#666666" opacity=".2"/>
+ <path d="m9 14a5 5 0 0 0 5-5 5 5 0 0 0-5-5z" fill="#666666" opacity=".5"/>
+</svg>

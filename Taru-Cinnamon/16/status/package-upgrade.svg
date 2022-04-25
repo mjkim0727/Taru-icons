@@ -1,0 +1,26 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1-5" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 .16669 -77.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#46a926" offset="0"/>
+   <stop stop-color="#76c22b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3-4" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.076087 0 0 .076087 .69566 .69567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <filter id="filter10952" x="-.015062" y="-.0099725" width="1.0301" height="1.0199" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.09265347"/>
+  </filter>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-8" cy="-8.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="url(#linearGradient8588-0-1-5)"/>
+ <g transform="matrix(.3482 0 0 .3482 -112.03 -21.278)" enable-background="new" shape-rendering="auto">
+  <path d="m344.82 72.091c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" filter="url(#filter10952)" image-rendering="auto" opacity=".1" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m344.82 71.742c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <path d="m1.082 9a7.2329 7.2329 0 0 0 7.1152 6 7.2329 7.2329 0 0 0 7.123-6z" enable-background="new" fill="#fff" opacity=".05"/>
+ <path d="m8 1c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" enable-background="new" fill="url(#linearGradient8590-3-3-4)"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+</svg>

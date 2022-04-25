@@ -1,0 +1,48 @@
+<svg width="16.02" height="16" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Suru Icon Theme Template</title>
+ <defs>
+  <linearGradient id="linearGradient920" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.036044 -.030497 0 337.79 252.91)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d4d4d" offset="0"/>
+   <stop stop-color="#666" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient993" x1="328" x2="328" y1="237" y2="251" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath983-3">
+   <path d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" color="#000000" enable-background="accumulate" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-60.58 -277.15)">
+  <g>
+   <g transform="translate(-259.42 41.151)" enable-background="new">
+    <rect x="320" y="236" width="16" height="16" enable-background="accumulate" opacity="0" stroke-width="2"/>
+    <path d="m325.51 237c-0.61629 0-1.1158 0.0139-1.5736 0.10352-0.45777 0.0897-0.91565 0.27628-1.2656 0.68359-0.34993 0.4073-0.51133 0.94323-0.58758 1.4785-0.0763 0.53529-0.0867 1.1205-0.0837 1.8418v2.8926 3.8984c-3e-3 0.71816 8e-3 1.3024 0.0837 1.8359 0.0763 0.53528 0.23765 1.0712 0.58758 1.4785 0.34993 0.40731 0.80781 0.59394 1.2656 0.68359 0.45776 0.0897 0.9573 0.10352 1.5736 0.10352h4.9786c0.6163 0 1.1147-0.0137 1.5719-0.10352 0.45719-0.0898 0.91512-0.27792 1.2639-0.68554 0.34879-0.40762 0.50916-0.94271 0.58591-1.4766 0.0768-0.53386 0.0887-1.1155 0.0887-1.8359v-3.8984-2.8984c0-0.72043-0.012-1.3021-0.0887-1.8359-0.0767-0.53385-0.23712-1.0689-0.58591-1.4766-0.34878-0.40762-0.80671-0.59578-1.2639-0.68554-0.45718-0.08977-0.95562-0.10352-1.5719-0.10352z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <rect transform="matrix(.99999 -.004707 -.004707 -.99999 0 0)" x="319.84" y="-251.51" width="2.0235" height="4.9905" enable-background="new" fill="#999" stroke-width=".15064"/>
+    <rect transform="matrix(.99999 -.0033952 -.0065255 -.99998 0 0)" x="318.39" y="-250.09" width="2.0195" height="2.9932" enable-background="new" fill="#e6e6e6" stroke-width=".12117"/>
+    <rect transform="matrix(.99999 -.004707 -.004707 -.99999 0 0)" x="319.87" y="-244.51" width="2.0235" height="4.9905" enable-background="new" fill="#999" stroke-width=".15064"/>
+    <rect transform="matrix(.99999 -.0033952 -.0065255 -.99998 0 0)" x="318.44" y="-243.09" width="2.0195" height="2.9932" enable-background="new" fill="#e6e6e6" stroke-width=".12117"/>
+    <rect transform="scale(-1,1)" x="-321.02" y="239" width="1" height="3" enable-background="new" fill="#999" opacity=".22" stroke-width=".079394"/>
+    <rect transform="scale(-1,1)" x="-321.02" y="246" width="1" height="3" enable-background="new" fill="#999" opacity=".22" stroke-width=".079394"/>
+    <rect transform="rotate(180.27)" x="-336.17" y="-248.42" width="2.0235" height="4.9905" enable-background="new" fill="#999" stroke-width=".15064"/>
+    <rect transform="matrix(-.99999 -.0033952 .0065255 -.99998 0 0)" x="-337.62" y="-247.86" width="2.0195" height="2.9932" enable-background="new" fill="#e6e6e6" stroke-width=".12117"/>
+    <rect transform="rotate(180.27)" x="-336.14" y="-241.42" width="2.0235" height="4.9905" enable-background="new" fill="#999" stroke-width=".15064"/>
+    <rect transform="matrix(-.99999 -.0033952 .0065255 -.99998 0 0)" x="-337.57" y="-240.86" width="2.0195" height="2.9932" enable-background="new" fill="#e6e6e6" stroke-width=".12117"/>
+    <rect x="335" y="239" width="1" height="3" enable-background="new" fill="#999" opacity=".22" stroke-width=".079394"/>
+    <rect x="335" y="246" width="1" height="3" enable-background="new" fill="#999" opacity=".22" stroke-width=".079394"/>
+    <path d="m330.46 236.5c0.60116 0 1.0775 0.0154 1.4824 0.0957 0.40487 0.0803 0.75873 0.23728 1.0213 0.54688 0.26257 0.30959 0.39537 0.7261 0.46273 1.2051 0.0673 0.47897 0.079 1.0435 0.076 1.7559v3.8965 3.8984c3e-3 0.71121-9e-3 1.2755-0.076 1.7539-0.0673 0.47898-0.20015 0.89549-0.46273 1.2051-0.26257 0.3096-0.61641 0.46655-1.0213 0.54688-0.40489 0.0803-0.88121 0.0957-1.4824 0.0957h-4.9148c-0.60115 0-1.0766-0.0153-1.4807-0.0957s-0.75799-0.23713-1.0196-0.54688c-0.26163-0.30975-0.39318-0.72681-0.46107-1.2051-0.0678-0.47826-0.0809-1.042-0.0809-1.7539v-3.8984-3.8984c0-0.71189 0.0131-1.2756 0.0809-1.7539 0.0678-0.47827 0.19944-0.89533 0.46107-1.2051 0.26166-0.30975 0.61551-0.4665 1.0196-0.54688 0.40414-0.0804 0.87957-0.0957 1.4807-0.0957z" color="#000000" enable-background="accumulate" fill="url(#linearGradient920)"/>
+    <path d="m329.51 239.49h0.99272v3" enable-background="new" fill="none" stroke="#999" stroke-linecap="round"/>
+    <path d="m329.51 242.49h1.9858" enable-background="new" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="324.5" y="239.5" width="2" height="3" rx=".5" ry=".5" enable-background="new" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="324.5" y="245.5" width="2" height="3" rx=".5" ry=".5" enable-background="new" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="329.5" y="245.5" width="2" height="3" rx=".5" ry=".5" enable-background="new" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m328 237v14h2.4893c2.4065 0 2.6534-0.28815 2.6534-3.1016v-3.8984-3.8984c0-2.8134-0.24685-3.1016-2.6534-3.1016z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".08"/>
+    <path d="m322.86 243.94v3.8984c-0.0118 2.8134 0.24686 3.1016 2.6534 3.1016h4.9786c2.4065 0 2.6534-0.28815 2.6534-3.1016v-3.8984z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".08"/>
+    <path d="m325.54 236.5c-0.60115 0-1.0775 0.0154-1.4824 0.0957-0.40488 0.0803-0.75873 0.23728-1.0213 0.54688-0.26256 0.30959-0.39536 0.7261-0.46272 1.2051-0.0673 0.47897-0.079 1.0435-0.076 1.7559v3.8965 3.8984c-3e-3 0.71121 9e-3 1.2755 0.076 1.7539 0.0673 0.47898 0.20015 0.89549 0.46272 1.2051 0.26258 0.3096 0.61642 0.46655 1.0213 0.54688 0.40488 0.0803 0.88121 0.0957 1.4824 0.0957h4.9148c0.60115 0 1.0766-0.0153 1.4807-0.0957s0.75799-0.23713 1.0196-0.54688c0.26163-0.30975 0.39319-0.72681 0.46107-1.2051 0.0678-0.47826 0.0809-1.042 0.0809-1.7539v-3.8984-3.8984c0-0.71189-0.0131-1.2756-0.0809-1.7539-0.0678-0.47827-0.19943-0.89533-0.46107-1.2051-0.26166-0.30975-0.61551-0.4665-1.0196-0.54688-0.40414-0.0804-0.87956-0.0957-1.4807-0.0957z" color="#000000" enable-background="accumulate" fill="none" opacity=".3" stroke="#000"/>
+    <path transform="matrix(.85711 0 0 1 46.869 0)" d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" clip-path="url(#clipPath983-3)" color="#000000" enable-background="accumulate" fill="none" opacity=".4" stroke="url(#linearGradient993)" stroke-width="2.1603"/>
+   </g>
+  </g>
+ </g>
+</svg>

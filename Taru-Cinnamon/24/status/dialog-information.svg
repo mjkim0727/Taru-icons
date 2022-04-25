@@ -1,0 +1,20 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.48294 0 0 .48294 -.01112 -119.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a7fd4" offset="0"/>
+   <stop stop-color="#37a6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.11957 0 0 .11957 .52176 .52174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12.523" rx="12" ry="11.477" enable-background="new" opacity=".1"/>
+ <ellipse cx="12" cy="12" rx="11.5" ry="11.5" enable-background="new" fill="url(#linearGradient8588-0-1)"/>
+ <path d="m1.054 13a11 11 0 0 0 10.946 10 11 11 0 0 0 10.95-10z" enable-background="new" fill="#fff" opacity=".1"/>
+ <text x="9.9459229" y="18.000015" enable-background="new" fill="#ffffff" font-family="sans-serif" font-size="16.304px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="9.9459229" y="18.000015" fill="#ffffff" font-family="Ubuntu" stroke-width=".20474">i</tspan></text>
+ <ellipse cx="12" cy="11.977" rx="11.455" ry="11.477" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.0751 4.9249 11 11 11 6.0751 0 11-4.9249 11-11 0-6.0751-4.9249-11-11-11zm0 1a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" enable-background="new" fill="url(#linearGradient8590-3-3)"/>
+</svg>

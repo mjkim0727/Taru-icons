@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-Yaru-icons with Other Distro Colors and Desktop Environments
+Yaru-icons with Other Distro Colors and Desktop Environments, 
 
 # Features
 
@@ -21,11 +21,19 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 ![Breeze](screenshots/var-breeze.png)
 
+* Cinnamon - Ubuntu Cinnamon Remix Style
+
+![Cinnamon](screenshots/var-cinnamon.png)
+
+* Ermine - 22.04 Design with 19.10 Folder Colors
+
+![Ermine](screenshots/var-ermine.png)
+
 * MATE - MATE Color
 
 ![Mate](screenshots/var-mate.png)
 
-* Manjaro - Ubuntu theme with Manjaro Colour
+* Manjaro - Ubuntu theme with Manjaro Color
 
 ![Manjaro](screenshots/var-manjaro.png)
 
