@@ -1,0 +1,11 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient834" x2="16" y1="14" y2="14" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dfdfdf" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0,-6)" fill="url(#linearGradient834)">
+  <rect y="6" width="16" height="16" rx="0" ry="0" fill="url(#linearGradient834)"/>
+ </g>
+</svg>

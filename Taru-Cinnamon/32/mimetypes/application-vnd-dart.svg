@@ -1,0 +1,37 @@
+<svg width="32" height="32" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Suru Icon Theme Template</title>
+ <defs>
+  <linearGradient id="linearGradient924-3" x1="459.03" x2="35.31" y1="419.23" y2="207.37" gradientTransform="matrix(0 -.072088 .072086 0 -7.1295 33.818)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+  <radialGradient id="SVGID_1_-3-0" cx="69.955" cy="60.886" r="68.065" gradientTransform="matrix(.10169 0 0 -.10169 8.4255 21.73)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".1" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient969" x1="336" x2="336" y1="134" y2="162" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath959">
+   <path d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <path d="m10.193 2c-1.421 0-2.5488 0.0308-3.5059 0.19141-0.95703 0.16064-1.7915 0.4726-2.4121 1.0918s-0.93647 1.4561-1.0957 2.4141c-0.15924 0.95795-0.18666 2.087-0.17969 3.5117v7.791 7.7969c-7e-3 1.4213 0.0207 2.5495 0.17969 3.5058 0.15923 0.95796 0.47505 1.7949 1.0957 2.4141s1.4551 0.93115 2.4121 1.0918c0.95703 0.16065 2.0849 0.19141 3.5059 0.19141h11.615c1.421 0 2.5467-0.0307 3.502-0.19141 0.95527-0.16075 1.7878-0.47425 2.4062-1.0938 0.61845-0.6195 0.93134-1.4536 1.0918-2.4102 0.16046-0.95653 0.19141-2.084 0.19141-3.5078v-7.7969-7.7969c0-1.4238-0.031-2.5513-0.19141-3.5078-0.16045-0.95653-0.47334-1.7906-1.0918-2.4102-0.61846-0.61951-1.451-0.933-2.4062-1.0938-0.95527-0.16076-2.081-0.19141-3.502-0.19141z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m10.193 2c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="none" opacity=".2" stroke="#000" stroke-width="2"/>
+ <path d="m10.193 2c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" color="#000000" enable-background="accumulate" fill="url(#linearGradient924-3)"/>
+ <path d="m11.439 19.636-2.3673-2.3673c-0.28065-0.2888-0.45556-0.69555-0.45556-1.0932 0-0.18405 0.10372-0.47183 0.18202-0.63758l2.1853-4.5526z" enable-background="new" fill="#01579b" stroke-width=".10169"/>
+ <path d="m19.544 11.441-2.3673-2.3673c-0.20643-0.20745-0.63758-0.45556-1.0016-0.45556-0.3132 0-0.6203 0.063-0.81961 0.18202l-4.3705 2.1853z" enable-background="new" fill="#40c4ff" stroke-width=".10169"/>
+ <polygon transform="matrix(.10169 0 0 .10169 8.4255 8.5581)" points="113.82 136.7 113.82 112.52 71.73 99.09 33.23 112.52 57.4 136.7" enable-background="new" fill="#40c4ff"/>
+ <path d="m10.985 18.362c0 0.73012 0.0915 0.91011 0.45556 1.2752l0.36405 0.36405h8.195l-4.0065-4.5526-5.0081-4.4621z" enable-background="new" fill="#29b6f6" stroke-width=".10169"/>
+ <path d="m18.269 10.985h-7.2849l9.0146 9.0146h2.4588v-5.6457l-2.9134-2.9134c-0.40878-0.41082-0.77282-0.45556-1.2752-0.45556z" enable-background="new" fill="#01579b" stroke-width=".10169"/>
+ <path d="m11.531 19.728c-0.36405-0.36608-0.45557-0.72605-0.45557-1.3657v-7.2849l-0.0915-0.0915v7.3754c1e-3 0.64064 1e-3 0.81757 0.54709 1.3667l0.27354 0.27354z" enable-background="new" fill="#fff" opacity=".2" stroke-width=".10169"/>
+ <polygon transform="matrix(.10169 0 0 .10169 8.4255 8.5581)" points="113.82 112.52 138 112.52 138 57.01 137.1 56.11 137.1 111.63 112.92 111.63" enable-background="new" fill="#263238" opacity=".2"/>
+ <path d="m19.544 11.441c-0.45149-0.45149-0.82163-0.45556-1.3657-0.45556h-7.1934l0.0915 0.0915h7.1029c0.27049 0 0.95688-0.0458 1.3646 0.36404z" enable-background="new" fill="#fff" opacity=".2" stroke-width=".10169"/>
+ <path d="m22.367 14.264-5.1902-5.1901c-0.20643-0.20745-0.63758-0.45556-1.0016-0.45556-0.3132 0-0.6203 0.063-0.81961 0.18202l-4.3705 2.1853-2.1853 4.5526c-0.0783 0.16575-0.18202 0.45353-0.18202 0.63758 0 0.3976 0.1749 0.80435 0.45556 1.0932l2.1822 2.166c0.0519 0.0641 0.11287 0.12914 0.18609 0.20134l2.8238 2.8238h5.7372v-2.4588h2.4588v-5.6456z" enable-background="new" fill="url(#SVGID_1_-3-0)" opacity=".2" stroke-width=".10169"/>
+ <path d="m4 16v7.7969c-0.0276 5.6267 0.57798 6.2031 6.1934 6.2031h11.615c5.6154 0 6.1914-0.57631 6.1914-6.2031v-7.7969z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".2"/>
+ <path d="m16 2v28h5.8086c5.6154 0 6.1914-0.57631 6.1914-6.2031v-7.7969-7.7969c0-5.6268-0.57603-6.2031-6.1914-6.2031z" color="#000000" enable-background="accumulate" fill="#fff" opacity=".2"/>
+ <path transform="translate(-320,-132)" d="m330.19 134c-5.6154 0-6.2196 0.57678-6.1921 6.2035v7.7965 7.7965c-0.0276 5.6267 0.57668 6.2035 6.1921 6.2035h11.615c5.6154 0 6.1921-0.5767 6.1921-6.2035v-7.7965-7.7965c0-5.6268-0.5767-6.2035-6.1921-6.2035z" clip-path="url(#clipPath959)" color="#000000" enable-background="accumulate" fill="none" opacity=".4" stroke="url(#linearGradient969)" stroke-width="2"/>
+</svg>

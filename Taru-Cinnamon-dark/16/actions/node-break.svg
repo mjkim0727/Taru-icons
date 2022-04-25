@@ -1,0 +1,13 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#f34f17; }</style>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-14" y="-2" width="1" height="2" fill="#dfdfdf" stroke-width=".57735"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-14" y="-16" width="1" height="2" fill="#dfdfdf" stroke-width=".57735"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-3" y="-14" width="1" height="4" fill="#dfdfdf" stroke-width=".8165"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-3" y="-7" width="1" height="5" fill="#dfdfdf" stroke-width=".91287"/>
+ <path d="m7 6v1h-2l2.5 3 2.5-3h-2v-1z" color="#444444" fill="#dfdfdf"/>
+ <path d="m2 11v4h4v-4zm1 1h2v2h-2z" color="#f34f17" fill="currentColor"/>
+ <path d="m10 11v4h4v-4zm1 1h2v2h-2z" color="#f34f17" fill="currentColor"/>
+ <path d="m6 1v4h4v-4zm1 1h2v2h-2z" color="#f34f17" fill="currentColor"/>
+</svg>

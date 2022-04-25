@@ -1,0 +1,26 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.94488 0 0 .94488 -47.5 -281.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#319741" offset="0"/>
+   <stop stop-color="#0e8420" offset="1"/>
+  </linearGradient>
+  <filter id="filter10952" x="-.015062" y="-.0099725" width="1.0301" height="1.0199" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.09265347"/>
+  </filter>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <circle transform="scale(-1)" cx="-24" cy="-24" r="22.5" enable-background="new" fill="url(#linearGradient8588)"/>
+ <path d="m2.1085 26a22 22 0 0 0 21.891 20 22 22 0 0 0 21.9-20z" enable-background="new" fill="#fff" opacity=".1"/>
+ <g transform="translate(-320.73 -60)" enable-background="new" shape-rendering="auto">
+  <path d="m344.82 72.091c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" filter="url(#filter10952)" image-rendering="auto" opacity=".1" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m344.82 71.742c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>

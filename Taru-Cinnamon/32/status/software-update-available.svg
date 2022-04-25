@@ -1,0 +1,26 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.60892 0 0 .60892 -31.144 -181.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#319741" offset="0"/>
+   <stop stop-color="#0e8420" offset="1"/>
+  </linearGradient>
+  <filter id="filter10952" x="-.015062" y="-.0099725" width="1.0301" height="1.0199" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.09265347"/>
+  </filter>
+  <linearGradient id="linearGradient8590-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.15217 0 0 .15217 1.3913 1.3913)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-16" cy="-17" r="15" enable-background="new" opacity=".1"/>
+ <circle transform="scale(-1)" cx="-16" cy="-16" r="14.5" enable-background="new" fill="url(#linearGradient8588-0)"/>
+ <path d="m1.4055 17.333a14.667 14.667 0 0 0 14.594 13.333 14.667 14.667 0 0 0 14.6-13.333z" enable-background="new" fill="#fff" opacity=".1"/>
+ <g transform="matrix(.67111 0 0 .67111 -215.35 -40.382)" enable-background="new" shape-rendering="auto">
+  <path d="m344.82 72.091c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" filter="url(#filter10952)" image-rendering="auto" opacity=".1" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m344.82 71.742c3.946 5.6444 5.9687 11.584 7.2936 14.258h-4.4752v8.0399h-5.6367v-8.0399h-4.6514c1.3243-2.6741 3.5238-8.6137 7.4697-14.258z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <circle cx="16" cy="16" r="14.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m16 2c-7.732 0-14 6.268-14 14s6.268 14 14 14c7.732 0 14-6.268 14-14s-6.268-14-14-14zm0 1a13 13 0 0 1 13 13 13 13 0 0 1-13 13 13 13 0 0 1-13-13 13 13 0 0 1 13-13z" enable-background="new" fill="url(#linearGradient8590-3)"/>
+</svg>

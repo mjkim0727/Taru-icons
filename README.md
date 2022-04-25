@@ -9,7 +9,7 @@ Yaru-icons with Other Distro Colors and Desktop Environments,
 
 # Varients
 
-* Default - 22.04 Design with 19.10 Folder Style
+* Default - 22.04 Style
 
 ![Default](screenshots/var-default.png)
 
@@ -33,10 +33,6 @@ Yaru-icons with Other Distro Colors and Desktop Environments,
 
 ![Mate](screenshots/var-mate.png)
 
-* Manjaro - Ubuntu theme with Manjaro Color
-
-![Manjaro](screenshots/var-manjaro.png)
-
 # Preview
 
 ![Default](preview-images/preview-default.png)
@@ -45,6 +41,8 @@ Yaru-icons with Other Distro Colors and Desktop Environments,
 
 ![Breeze](preview-images/preview-breeze.png)
 
-![Mate](preview-images/preview-mate.png)
+![Cinnamon](preview-images/preview-cinnamon.png)
 
-![Remix](preview-images/preview-remix.png)
+![ermine](preview-images/preview-ermine.png)
+
+![Mate](preview-images/preview-mate.png)

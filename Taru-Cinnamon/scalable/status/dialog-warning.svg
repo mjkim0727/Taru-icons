@@ -1,0 +1,22 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.94488 0 0 .94488 .50001 -233.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#da1636" offset="0"/>
+   <stop stop-color="#f22c42" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="url(#linearGradient8588)"/>
+ <path d="m2.1085 26a22 22 0 0 0 21.891 20 22 22 0 0 0 21.9-20z" enable-background="new" fill="#fff" opacity=".05"/>
+ <g transform="translate(-320 -60)" enable-background="new" fill="#fff" aria-label="!">
+  <path d="m345.99 77.467q0 3.3362-0.2383 6.0766-0.2383 2.7007-0.59575 5.4014h-2.3035q-0.35745-2.7007-0.59575-5.4014-0.23829-2.7404-0.23829-6.0766v-7.4667h3.9716zm0.67517 17.912q0 1.0723-0.71489 1.8667t-1.9461 0.79433q-1.2312 0-1.9461-0.79433-0.71489-0.79433-0.71489-1.8667 0-1.0723 0.71489-1.8667 0.7149-0.79433 1.9461-0.79433 1.2312 0 1.9461 0.79433 0.71489 0.79433 0.71489 1.8667z" fill="#fff" stroke-width=".99291px"/>
+ </g>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>
