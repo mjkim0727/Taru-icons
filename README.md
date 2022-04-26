@@ -13,7 +13,7 @@ Yaru-icons with Other Distro Colors and Desktop Environments,
 
 ![Default](screenshots/var-default.png)
 
-* Adw - GNOME 42 Adwaita colors
+* Adw - GNOME 42 Adwaita colors and Yaru-Remix Style
 
 ![Adw](screenshots/var-adw.png)
 
@@ -29,7 +29,7 @@ Yaru-icons with Other Distro Colors and Desktop Environments,
 
 ![Ermine](screenshots/var-ermine.png)
 
-* MATE - MATE Color
+* MATE - MATE Colors with Ermine
 
 ![Mate](screenshots/var-mate.png)
 
