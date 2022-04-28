@@ -7,7 +7,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg885"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="1"
-     inkscape:cx="63.5"
-     inkscape:cy="79.5"
-     inkscape:window-width="1920"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="92.984542"
+     inkscape:cy="82.024387"
+     inkscape:window-width="1846"
      inkscape:window-height="1011"
-     inkscape:window-x="0"
+     inkscape:window-x="74"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg885" />
@@ -99,9 +99,9 @@
        xlink:href="#linearGradient1473"
        id="linearGradient1475"
        x1="25.929169"
-       y1="23.8125"
+       y1="26.987499"
        x2="25.929169"
-       y2="6.3500004"
+       y2="12.170834"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -128,24 +128,45 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3944">
+       xlink:href="#linearGradient1579"
+       id="linearGradient1020"
+       x1="3.9670422"
+       y1="16.958502"
+       x2="63.233707"
+       y2="61.408501"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1579">
       <stop
-         style="stop-color:#fb884a;stop-opacity:1"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="0"
-         id="stop3940" />
+         id="stop1575" />
       <stop
-         style="stop-color:#febf91;stop-opacity:1"
+         style="stop-color:#7a7a7a;stop-opacity:1"
          offset="1"
-         id="stop3942" />
+         id="stop1577" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3944"
-       id="linearGradient1020"
-       x1="33.071209"
-       y1="16.958502"
-       x2="33.071209"
-       y2="61.408501"
+       id="linearGradient957">
+      <stop
+         style="stop-color:#77216f;stop-opacity:1"
+         offset="0"
+         id="stop953" />
+      <stop
+         style="stop-color:#e95420;stop-opacity:1"
+         offset="1"
+         id="stop955" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient957"
+       id="linearGradient885"
+       x1="4.233336"
+       y1="17.065678"
+       x2="63.500004"
+       y2="17.065678"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
@@ -154,7 +175,7 @@
      id="path8372" />
   <path
      d="m 14.550538,6.3500003 c -9.357926,0 -10.3172018,0.5289418 -10.3172018,9.8681357 v 11.56322 H 63.500005 v -6.370772 c 0,-9.339193 -0.959274,-10.82725 -10.317189,-10.82725 H 30.162505 L 25.929172,6.3500003 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f34f17;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient885);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate"
      id="path6624"
      sodipodi:nodetypes="ssccssccs" />
   <path
@@ -172,7 +193,7 @@
      id="path7287" />
   <path
      d="m 14.550377,16.958502 c -9.3579251,0 -10.3170408,0.958569 -10.3170408,10.292474 v 23.839885 c 0,9.333903 0.9591157,10.292475 10.3170408,10.292475 h 38.632598 c 9.357915,0 10.31703,-0.958572 10.31703,-10.292475 V 27.250976 c 0,-9.333905 -0.961949,-10.522604 -10.31703,-10.292474 H 31.683859 27.448454 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1020);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264508;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1020);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.264508;marker:none;enable-background:accumulate"
      id="path6251" />
   <path
      d="m 4.2333362,50.53542 v 0.530177 c 0,9.357022 0.959276,10.31774 10.3172018,10.31774 h 38.632278 c 9.357915,0 10.317189,-0.960718 10.317189,-10.31774 V 50.53542 c 0,9.357022 -0.959274,10.31774 -10.317189,10.31774 H 14.550538 c -9.3579258,0 -10.3172018,-0.960718 -10.3172018,-10.31774 z"

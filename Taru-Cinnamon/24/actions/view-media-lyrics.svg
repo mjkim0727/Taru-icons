@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="view-media-lyrics.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="36.454545"
+     inkscape:cx="10.986284"
+     inkscape:cy="11"
+     inkscape:window-width="1860"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <path
+     id="rect2"
+     style="fill:#666666"
+     d="M 4,5 V 6 H 20 V 5 Z m 7,3 v 1 h 9 V 8 Z M 4,8 v 7 C 5.632737,14.243162 8.1947376,12.724543 9.582,11.5 8.1506599,10.224635 5.7392228,8.7285332 4,8 Z m 7,3 v 1 h 9 v -1 z m 0,3 v 1 h 9 v -1 z m -7,3 v 1 h 16 v -1 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+</svg>

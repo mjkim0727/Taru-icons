@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg6"
+   sodipodi:docname="media-random-albums-amarok.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.84375"
+     inkscape:cx="2.3873016"
+     inkscape:cy="23.669841"
+     inkscape:window-width="1860"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 15,5 V 7 H 14 C 12.26,7 11.045,7.642 10.244,8.582 9.444,9.522 9.028,10.709 8.65,11.842 8.273,12.975 7.93,14.06 7.404,14.807 6.88,15.554 6.24,16 5,16 H 4 v 1 H 5 C 6.511,17 7.559,16.321 8.22,15.38 8.883,14.44 9.227,13.275 9.6,12.158 9.972,11.041 10.37,9.978 11.006,9.23 11.643,8.483 12.49,8 14,8 h 1.002 v 2 C 15.762,9.652 16.536,9.264 17.324,8.834 18.105,8.404 18.857,7.958 19.582,7.5 18.857,7.05 18.105,6.61 17.324,6.18 A 43.074,43.074 0 0 0 15,5 Z M 4,7 v 1 h 1 c 1.239,0 1.879,0.446 2.404,1.193 0.256,0.364 0.466,0.81 0.66,1.3 0.151,-0.405 0.335,-0.814 0.545,-1.22 A 5.886,5.886 0 0 0 8.221,8.619 C 7.559,7.68 6.51,7 5,7 Z m 6.21,6.459 c -0.139,0.414 -0.287,0.823 -0.478,1.244 0.153,0.25 0.32,0.49 0.512,0.715 C 11.044,16.358 12.26,17 14,17 h 1.002 v 2 c 0.76,-0.348 1.534,-0.736 2.322,-1.166 0.781,-0.43 1.533,-0.876 2.258,-1.334 -0.725,-0.45 -1.477,-0.89 -2.258,-1.32 A 43.074,43.074 0 0 0 15,14 v 2 h -1 c -1.51,0 -2.357,-0.483 -2.994,-1.23 -0.315,-0.37 -0.571,-0.819 -0.795,-1.311 z"
+     fill="#666666"
+     overflow="visible"
+     id="path2" />
+  <path
+     d="m 4,10 v 4 h 1 v -1 h 1 v 1 H 7 V 10 H 6 Z m 1,1 h 1 v 1 H 5 Z"
+     fill="#666666"
+     id="path4" />
+</svg>
