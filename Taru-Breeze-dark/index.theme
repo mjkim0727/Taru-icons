@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Taru Breeze (Dark)
 Comment=Taru icon theme
-Inherits=Yaru,Humanity,hicolor
+Inherits=breeze-dark,Taru-Breeze,Yaru,Humanity,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64
